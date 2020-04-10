@@ -1,0 +1,4 @@
+Missed application output.
+You can use Alt+PrintScreen to capture just browser window.
+
+Good job.
