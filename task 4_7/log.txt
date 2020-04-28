@@ -1,0 +1,263 @@
+/var/log/auth.log:Apr 26 00:54:27 DevOps sudo: jamesbond : TTY=pts/0 ; PWD=/home/jamesbond ; USER=root ; COMMAND=/usr/sbin/setquota -u utest 100M 150M 0 0 /
+/var/log/auth.log:Apr 26 00:55:09 DevOps sudo: jamesbond : TTY=pts/0 ; PWD=/home/jamesbond ; USER=root ; COMMAND=/usr/bin/quota -vs utest
+/var/log/auth.log:Apr 26 00:59:37 DevOps su[1829]: Successful su for utest by jamesbond
+/var/log/auth.log:Apr 26 00:59:37 DevOps su[1829]: + /dev/pts/0 jamesbond:utest
+/var/log/auth.log:Apr 26 00:59:37 DevOps su[1829]: pam_unix(su:session): session opened for user utest by (uid=1000)
+/var/log/auth.log:Apr 26 00:59:38 DevOps systemd-logind[1068]: New session 4 of user utest.
+/var/log/auth.log:Apr 26 00:59:42 DevOps systemd: pam_unix(systemd-user:session): session opened for user utest by (uid=0)
+/var/log/auth.log:Apr 26 01:17:56 DevOps sudo: jamesbond : TTY=pts/1 ; PWD=/home/jamesbond/Desktop/Epam ; USER=root ; COMMAND=/usr/sbin/edquota -u utest
+/var/log/auth.log:Apr 26 01:21:18 DevOps sudo: jamesbond : TTY=pts/1 ; PWD=/home/jamesbond/Desktop/Epam ; USER=root ; COMMAND=/usr/bin/quota -vs utest
+/var/log/auth.log:Apr 26 01:22:10 DevOps sudo: jamesbond : TTY=pts/1 ; PWD=/home/jamesbond/Desktop/Epam ; USER=root ; COMMAND=/usr/bin/quota -vs utest
+/var/log/auth.log:Apr 26 01:22:21 DevOps sudo: jamesbond : TTY=pts/1 ; PWD=/home/jamesbond/Desktop/Epam ; USER=root ; COMMAND=/usr/bin/quota -vs utest
+/var/log/auth.log:Apr 26 01:22:35 DevOps sudo: jamesbond : TTY=pts/1 ; PWD=/home/jamesbond/Desktop/Epam ; USER=root ; COMMAND=/usr/sbin/edquota -u utest
+/var/log/auth.log:Apr 26 01:37:49 DevOps su[1829]: pam_unix(su:session): session closed for user utest
+/var/log/auth.log:Apr 26 22:51:25 DevOps sudo: jamesbond : TTY=pts/0 ; PWD=/home/jamesbond ; USER=root ; COMMAND=/usr/sbin/setquota -u utest 100M 150M 0 0 /
+/var/log/auth.log:Apr 26 22:55:33 DevOps sudo: jamesbond : TTY=pts/0 ; PWD=/home/jamesbond ; USER=root ; COMMAND=/usr/sbin/groupadd guest
+/var/log/auth.log:Apr 26 22:55:33 DevOps groupadd[3910]: group added to /etc/group: name=guest, GID=1002
+/var/log/auth.log:Apr 26 22:55:33 DevOps groupadd[3910]: group added to /etc/gshadow: name=guest
+/var/log/auth.log:Apr 26 22:55:33 DevOps groupadd[3910]: new group: name=guest, GID=1002
+/var/log/auth.log:Apr 26 22:57:04 DevOps sudo: jamesbond : TTY=pts/0 ; PWD=/home/jamesbond ; USER=root ; COMMAND=/usr/sbin/useradd -g guest -s /bin/bash -d /home/guest -m guest
+/var/log/auth.log:Apr 26 22:57:04 DevOps useradd[4979]: new user: name=guest, UID=1002, GID=1002, home=/home/guest, shell=/bin/bash
+/var/log/auth.log:Apr 26 22:57:26 DevOps passwd[5180]: passwd: can't view or modify password information for guest
+/var/log/auth.log:Apr 26 22:57:42 DevOps sudo: jamesbond : TTY=pts/0 ; PWD=/home/jamesbond ; USER=root ; COMMAND=/usr/bin/passwd guest
+/var/log/auth.log:Apr 26 22:57:51 DevOps passwd[5331]: pam_unix(passwd:chauthtok): password changed for guest
+/var/log/auth.log:Apr 26 23:15:00 DevOps sudo: jamesbond : TTY=pts/0 ; PWD=/home/jamesbond ; USER=root ; COMMAND=/usr/sbin/usermod -aG sudo guest
+/var/log/auth.log:Apr 26 23:15:00 DevOps usermod[15749]: add 'guest' to group 'sudo'
+/var/log/auth.log:Apr 26 23:15:00 DevOps usermod[15749]: add 'guest' to shadow group 'sudo'
+/var/log/auth.log:Apr 26 23:15:48 DevOps su[16174]: Successful su for guest by jamesbond
+/var/log/auth.log:Apr 26 23:15:48 DevOps su[16174]: + /dev/pts/0 jamesbond:guest
+/var/log/auth.log:Apr 26 23:15:48 DevOps su[16174]: pam_unix(su:session): session opened for user guest by (uid=1000)
+/var/log/auth.log:Apr 26 23:15:49 DevOps systemd-logind[779]: New session 3 of user guest.
+/var/log/auth.log:Apr 26 23:15:56 DevOps systemd: pam_unix(systemd-user:session): session opened for user guest by (uid=0)
+/var/log/auth.log:Apr 26 23:16:21 DevOps sudo:    guest : TTY=pts/0 ; PWD=/home/jamesbond ; USER=root ; COMMAND=/usr/bin/whoami
+/var/log/auth.log:Apr 26 23:16:42 DevOps su[16174]: pam_unix(su:session): session closed for user guest
+/var/log/auth.log:Apr 26 23:43:04 DevOps sudo: jamesbond : TTY=pts/0 ; PWD=/home/jamesbond ; USER=root ; COMMAND=/usr/sbin/usermod -aG sudo guest
+/var/log/auth.log:Apr 26 23:43:37 DevOps su[32112]: Successful su for guest by jamesbond
+/var/log/auth.log:Apr 26 23:43:37 DevOps su[32112]: + /dev/pts/0 jamesbond:guest
+/var/log/auth.log:Apr 26 23:43:37 DevOps su[32112]: pam_unix(su:session): session opened for user guest by (uid=1000)
+/var/log/auth.log:Apr 26 23:43:37 DevOps systemd-logind[779]: New session 3 of user guest.
+/var/log/auth.log:Apr 26 23:43:37 DevOps systemd: pam_unix(systemd-user:session): session opened for user guest by (uid=0)
+/var/log/auth.log:Apr 26 23:43:59 DevOps sudo:    guest : TTY=pts/0 ; PWD=/home/jamesbond ; USER=root ; COMMAND=/usr/bin/whoami
+/var/log/auth.log:Apr 26 23:44:06 DevOps su[32112]: pam_unix(su:session): session closed for user guest
+/var/log/auth.log:Apr 27 00:41:12 DevOps su[2002]: Successful su for guest by jamesbond
+/var/log/auth.log:Apr 27 00:41:12 DevOps su[2002]: + /dev/pts/1 jamesbond:guest
+/var/log/auth.log:Apr 27 00:41:12 DevOps su[2002]: pam_unix(su:session): session opened for user guest by (uid=1000)
+/var/log/auth.log:Apr 27 00:41:13 DevOps systemd-logind[779]: New session 3 of user guest.
+/var/log/auth.log:Apr 27 00:41:14 DevOps systemd: pam_unix(systemd-user:session): session opened for user guest by (uid=0)
+/var/log/auth.log:Apr 27 00:43:12 DevOps su[2002]: pam_unix(su:session): session closed for user guest
+/var/log/auth.log:Apr 27 23:05:00 DevOps su[22541]: Successful su for utest by jamesbond
+/var/log/auth.log:Apr 27 23:05:01 DevOps su[22541]: + /dev/pts/0 jamesbond:utest
+/var/log/auth.log:Apr 27 23:05:01 DevOps su[22541]: pam_unix(su:session): session opened for user utest by (uid=1000)
+/var/log/auth.log:Apr 27 23:05:02 DevOps systemd-logind[710]: New session 3 of user utest.
+/var/log/auth.log:Apr 27 23:05:04 DevOps systemd: pam_unix(systemd-user:session): session opened for user utest by (uid=0)
+/var/log/auth.log:Apr 27 23:05:39 DevOps su[22541]: pam_unix(su:session): session closed for user utest
+/var/log/auth.log:Apr 27 23:05:47 DevOps su[22982]: Successful su for guest by jamesbond
+/var/log/auth.log:Apr 27 23:05:47 DevOps su[22982]: + /dev/pts/0 jamesbond:guest
+/var/log/auth.log:Apr 27 23:05:47 DevOps su[22982]: pam_unix(su:session): session opened for user guest by (uid=1000)
+/var/log/auth.log:Apr 27 23:05:48 DevOps systemd: pam_unix(systemd-user:session): session opened for user guest by (uid=0)
+/var/log/auth.log:Apr 27 23:05:48 DevOps systemd-logind[710]: New session 3 of user guest.
+/var/log/auth.log:Apr 27 23:08:35 DevOps gpasswd[24735]: guest failed to remove user guest from group sudo: Permission denied
+/var/log/auth.log:Apr 27 23:08:45 DevOps sudo:    guest : TTY=pts/0 ; PWD=/home/jamesbond ; USER=root ; COMMAND=/usr/bin/gpasswd -d guest sudo
+/var/log/auth.log:Apr 27 23:08:46 DevOps gpasswd[24823]: user guest removed by root from group sudo
+/var/log/auth.log:Apr 27 23:10:54 DevOps sudo:    guest : TTY=pts/0 ; PWD=/home/jamesbond ; USER=root ; COMMAND=/usr/sbin/deluser guest sudo
+/var/log/auth.log:Apr 27 23:11:11 DevOps su[22982]: pam_unix(su:session): session closed for user guest
+/var/log/auth.log:Apr 27 23:11:18 DevOps su[26174]: Successful su for guest by jamesbond
+/var/log/auth.log:Apr 27 23:11:18 DevOps su[26174]: + /dev/pts/0 jamesbond:guest
+/var/log/auth.log:Apr 27 23:11:18 DevOps su[26174]: pam_unix(su:session): session opened for user guest by (uid=1000)
+/var/log/auth.log:Apr 27 23:11:18 DevOps systemd-logind[710]: New session 3 of user guest.
+/var/log/auth.log:Apr 27 23:11:18 DevOps systemd: pam_unix(systemd-user:session): session opened for user guest by (uid=0)
+/var/log/auth.log:Apr 27 23:37:29 DevOps su[9146]: Successful su for guest by jamesbond
+/var/log/auth.log:Apr 27 23:37:29 DevOps su[9146]: + /dev/pts/1 jamesbond:guest
+/var/log/auth.log:Apr 27 23:37:29 DevOps su[9146]: pam_unix(su:session): session opened for user guest by (uid=1000)
+/var/log/auth.log:Apr 27 23:37:30 DevOps systemd-logind[710]: New session c2 of user guest.
+/var/log/auth.log:Apr 28 00:22:59 DevOps sudo:    guest : TTY=pts/1 ; PWD=/tmp/acl_test ; USER=root ; COMMAND=/usr/bin/setfacl -m g:guest:r acl_test
+/var/log/auth.log:Apr 28 00:23:08 DevOps sudo:    guest : TTY=pts/1 ; PWD=/tmp ; USER=root ; COMMAND=/usr/bin/setfacl -m g:guest:r acl_test
+/var/log/auth.log:Apr 28 00:50:25 DevOps sudo:    guest : TTY=pts/1 ; PWD=/tmp ; USER=root ; COMMAND=/usr/bin/setfacl --set u:guest:r acl_test/
+/var/log/auth.log:Apr 28 00:50:37 DevOps sudo:    guest : TTY=pts/1 ; PWD=/tmp ; USER=root ; COMMAND=/usr/bin/setfacl --set u:guest:r /acl_test/
+/var/log/auth.log:Apr 28 00:50:49 DevOps sudo:    guest : TTY=pts/1 ; PWD=/tmp ; USER=root ; COMMAND=/usr/bin/setfacl --set u:guest:r acl_test
+/var/log/auth.log:Apr 28 00:55:20 DevOps su[9146]: pam_unix(su:session): session closed for user guest
+/var/log/auth.log:Apr 28 00:56:00 DevOps su[23553]: Successful su for guest by jamesbond
+/var/log/auth.log:Apr 28 00:56:00 DevOps su[23553]: + /dev/pts/1 jamesbond:guest
+/var/log/auth.log:Apr 28 00:56:00 DevOps su[23553]: pam_unix(su:session): session opened for user guest by (uid=1000)
+/var/log/auth.log:Apr 28 00:56:00 DevOps systemd-logind[710]: New session c3 of user guest.
+/var/log/auth.log:Apr 28 00:57:33 DevOps su[23553]: pam_unix(su:session): session closed for user guest
+/var/log/auth.log:Apr 28 00:58:54 DevOps sudo: jamesbond : TTY=pts/1 ; PWD=/tmp ; USER=root ; COMMAND=/usr/bin/setfacl -m user:guest:r acl_test/
+/var/log/auth.log:Apr 28 00:59:06 DevOps su[25318]: Successful su for guest by jamesbond
+/var/log/auth.log:Apr 28 00:59:06 DevOps su[25318]: + /dev/pts/1 jamesbond:guest
+/var/log/auth.log:Apr 28 00:59:06 DevOps su[25318]: pam_unix(su:session): session opened for user guest by (uid=1000)
+/var/log/auth.log:Apr 28 00:59:06 DevOps systemd-logind[710]: New session c4 of user guest.
+/var/log/auth.log:Apr 28 01:04:27 DevOps su[25318]: pam_unix(su:session): session closed for user guest
+/var/log/auth.log:Apr 28 01:04:55 DevOps sudo: jamesbond : TTY=pts/1 ; PWD=/tmp ; USER=root ; COMMAND=/usr/bin/setfacl -x u:guest acl_test/
+/var/log/auth.log:Apr 28 01:05:06 DevOps su[28740]: Successful su for guest by jamesbond
+/var/log/auth.log:Apr 28 01:05:06 DevOps su[28740]: + /dev/pts/1 jamesbond:guest
+/var/log/auth.log:Apr 28 01:05:06 DevOps su[28740]: pam_unix(su:session): session opened for user guest by (uid=1000)
+/var/log/auth.log:Apr 28 01:05:06 DevOps systemd-logind[710]: New session c5 of user guest.
+/var/log/auth.log:Apr 28 01:06:35 DevOps sudo:    guest : TTY=pts/1 ; PWD=/tmp/acl_test ; USER=root ; COMMAND=/usr/bin/setfacl -x u:guest utest.txt
+/var/log/auth.log:Apr 28 01:16:23 DevOps sudo:    guest : TTY=pts/1 ; PWD=/tmp ; USER=root ; COMMAND=/bin/chmod -R 000 acl_test/
+/var/log/auth.log:Apr 28 01:20:55 DevOps su[28740]: pam_unix(su:session): session closed for user guest
+/var/log/auth.log:Apr 28 01:32:22 DevOps sudo:    guest : TTY=pts/0 ; PWD=/tmp ; USER=root ; COMMAND=/bin/rm acl_test/
+/var/log/auth.log:Apr 28 01:32:34 DevOps su[26174]: pam_unix(su:session): session closed for user guest
+/var/log/auth.log:Apr 28 01:33:38 DevOps sudo: jamesbond : TTY=pts/1 ; PWD=/tmp/acl_test ; USER=root ; COMMAND=/usr/bin/touch utest.txt
+/var/log/auth.log:Apr 28 01:40:20 DevOps sudo: jamesbond : TTY=pts/0 ; PWD=/tmp/acl_test ; USER=root ; COMMAND=/bin/rm utest.txt
+/var/log/auth.log:Apr 28 01:50:19 DevOps su[23301]: Successful su for utest by jamesbond
+/var/log/auth.log:Apr 28 01:50:19 DevOps su[23301]: + /dev/pts/1 jamesbond:utest
+/var/log/auth.log:Apr 28 01:50:19 DevOps su[23301]: pam_unix(su:session): session opened for user utest by (uid=1000)
+/var/log/auth.log:Apr 28 01:50:20 DevOps systemd-logind[710]: New session 3 of user utest.
+/var/log/auth.log:Apr 28 01:50:20 DevOps systemd: pam_unix(systemd-user:session): session opened for user utest by (uid=0)
+/var/log/auth.log:Apr 28 01:51:25 DevOps su[23301]: pam_unix(su:session): session closed for user utest
+/var/log/auth.log:Apr 28 01:51:53 DevOps su[24230]: Successful su for utest by jamesbond
+/var/log/auth.log:Apr 28 01:51:53 DevOps su[24230]: + /dev/pts/1 jamesbond:utest
+/var/log/auth.log:Apr 28 01:51:53 DevOps su[24230]: pam_unix(su:session): session opened for user utest by (uid=1000)
+/var/log/auth.log:Apr 28 01:51:53 DevOps systemd-logind[710]: New session 3 of user utest.
+/var/log/auth.log:Apr 28 01:51:53 DevOps systemd: pam_unix(systemd-user:session): session opened for user utest by (uid=0)
+/var/log/auth.log:Apr 28 01:55:45 DevOps sudo: pam_unix(sudo:auth): authentication failure; logname= uid=1001 euid=0 tty=/dev/pts/1 ruser=utest rhost=  user=utest
+/var/log/auth.log:Apr 28 01:56:06 DevOps sudo:    utest : user NOT in sudoers ; TTY=pts/1 ; PWD=/tmp ; USER=root ; COMMAND=/usr/bin/setfacl -m u:utest:rw acl_test/
+/var/log/auth.log:Apr 28 01:56:10 DevOps su[24230]: pam_unix(su:session): session closed for user utest
+/var/log/auth.log:Apr 28 01:58:15 DevOps su[28130]: Successful su for utest by jamesbond
+/var/log/auth.log:Apr 28 01:58:15 DevOps su[28130]: + /dev/pts/1 jamesbond:utest
+/var/log/auth.log:Apr 28 01:58:15 DevOps su[28130]: pam_unix(su:session): session opened for user utest by (uid=1000)
+/var/log/auth.log:Apr 28 01:58:15 DevOps systemd: pam_unix(systemd-user:session): session opened for user utest by (uid=0)
+/var/log/auth.log:Apr 28 01:58:15 DevOps systemd-logind[710]: New session 3 of user utest.
+/var/log/auth.log:Apr 28 01:59:00 DevOps su[28130]: pam_unix(su:session): session closed for user utest
+/var/log/auth.log:Apr 28 01:59:55 DevOps su[29047]: Successful su for utest by jamesbond
+/var/log/auth.log:Apr 28 01:59:55 DevOps su[29047]: + /dev/pts/1 jamesbond:utest
+/var/log/auth.log:Apr 28 01:59:55 DevOps su[29047]: pam_unix(su:session): session opened for user utest by (uid=1000)
+/var/log/auth.log:Apr 28 01:59:56 DevOps systemd: pam_unix(systemd-user:session): session opened for user utest by (uid=0)
+/var/log/auth.log:Apr 28 01:59:56 DevOps systemd-logind[710]: New session 3 of user utest.
+/var/log/auth.log:Apr 28 02:00:43 DevOps su[29047]: pam_unix(su:session): session closed for user utest
+/var/log/auth.log:Apr 28 02:01:29 DevOps su[29917]: Successful su for utest by jamesbond
+/var/log/auth.log:Apr 28 02:01:29 DevOps su[29917]: + /dev/pts/1 jamesbond:utest
+/var/log/auth.log:Apr 28 02:01:29 DevOps su[29917]: pam_unix(su:session): session opened for user utest by (uid=1000)
+/var/log/auth.log:Apr 28 02:01:29 DevOps systemd: pam_unix(systemd-user:session): session opened for user utest by (uid=0)
+/var/log/auth.log:Apr 28 02:01:29 DevOps systemd-logind[710]: New session 3 of user utest.
+/var/log/auth.log:Apr 28 02:02:02 DevOps su[29917]: pam_unix(su:session): session closed for user utest
+/var/log/auth.log:Apr 28 02:04:19 DevOps su[31645]: Successful su for utest by jamesbond
+/var/log/auth.log:Apr 28 02:04:19 DevOps su[31645]: + /dev/pts/1 jamesbond:utest
+/var/log/auth.log:Apr 28 02:04:19 DevOps su[31645]: pam_unix(su:session): session opened for user utest by (uid=1000)
+/var/log/auth.log:Apr 28 02:04:19 DevOps systemd: pam_unix(systemd-user:session): session opened for user utest by (uid=0)
+/var/log/auth.log:Apr 28 02:04:19 DevOps systemd-logind[710]: New session 3 of user utest.
+/var/log/auth.log:Apr 28 02:06:39 DevOps su[31645]: pam_unix(su:session): session closed for user utest
+/var/log/auth.log:Apr 28 02:07:16 DevOps su[916]: Successful su for utest by jamesbond
+/var/log/auth.log:Apr 28 02:07:16 DevOps su[916]: + /dev/pts/1 jamesbond:utest
+/var/log/auth.log:Apr 28 02:07:16 DevOps su[916]: pam_unix(su:session): session opened for user utest by (uid=1000)
+/var/log/auth.log:Apr 28 02:07:16 DevOps systemd: pam_unix(systemd-user:session): session opened for user utest by (uid=0)
+/var/log/auth.log:Apr 28 02:07:16 DevOps systemd-logind[710]: New session 3 of user utest.
+/var/log/auth.log:Apr 28 02:08:39 DevOps sudo: pam_unix(sudo:auth): authentication failure; logname= uid=1001 euid=0 tty=/dev/pts/1 ruser=utest rhost=  user=utest
+/var/log/auth.log:Apr 28 02:09:00 DevOps sudo:    utest : user NOT in sudoers ; TTY=pts/1 ; PWD=/tmp ; USER=root ; COMMAND=/usr/bin/touch utest.txt
+/var/log/auth.log:Apr 28 02:09:57 DevOps su[916]: pam_unix(su:session): session closed for user utest
+/var/log/auth.log:Apr 28 02:11:45 DevOps su[3626]: Successful su for utest by jamesbond
+/var/log/auth.log:Apr 28 02:11:45 DevOps su[3626]: + /dev/pts/1 jamesbond:utest
+/var/log/auth.log:Apr 28 02:11:45 DevOps su[3626]: pam_unix(su:session): session opened for user utest by (uid=1000)
+/var/log/auth.log:Apr 28 02:11:46 DevOps systemd: pam_unix(systemd-user:session): session opened for user utest by (uid=0)
+/var/log/auth.log:Apr 28 02:11:46 DevOps systemd-logind[710]: New session 3 of user utest.
+/var/log/auth.log:Apr 28 02:14:21 DevOps su[3626]: pam_unix(su:session): session closed for user utest
+/var/log/auth.log:Apr 28 22:06:34 DevOps sudo: jamesbond : TTY=pts/0 ; PWD=/home/jamesbond ; USER=root ; COMMAND=/usr/bin/setfacl -m u:utest:r /tmp/acl_test
+/var/log/auth.log:Apr 28 22:12:55 DevOps su[14625]: Successful su for utest by jamesbond
+/var/log/auth.log:Apr 28 22:12:55 DevOps su[14625]: + /dev/pts/0 jamesbond:utest
+/var/log/auth.log:Apr 28 22:12:55 DevOps su[14625]: pam_unix(su:session): session opened for user utest by (uid=1000)
+/var/log/auth.log:Apr 28 22:12:55 DevOps systemd-logind[904]: New session 4 of user utest.
+/var/log/auth.log:Apr 28 22:12:55 DevOps systemd: pam_unix(systemd-user:session): session opened for user utest by (uid=0)
+/var/log/auth.log:Apr 28 22:18:32 DevOps sudo: pam_unix(sudo:auth): authentication failure; logname= uid=1001 euid=0 tty=/dev/pts/0 ruser=utest rhost=  user=utest
+/var/log/auth.log:Apr 28 22:18:58 DevOps sudo:    utest : user NOT in sudoers ; TTY=pts/0 ; PWD=/tmp/acl_test ; USER=root ; COMMAND=/usr/bin/setfacl -m u:utest:rw utest.txt
+/var/log/auth.log:Apr 28 22:19:08 DevOps su[14625]: pam_unix(su:session): session closed for user utest
+/var/log/auth.log:Apr 28 22:19:35 DevOps sudo: jamesbond : TTY=pts/0 ; PWD=/tmp/acl_test ; USER=root ; COMMAND=/usr/bin/setfacl -m u:utest:rw utest.txt
+/var/log/auth.log:Apr 28 22:19:42 DevOps sudo: jamesbond : TTY=pts/0 ; PWD=/tmp/acl_test ; USER=root ; COMMAND=/usr/bin/setfacl -m u:utest:rw utest.txt
+/var/log/auth.log:Apr 28 22:20:13 DevOps sudo: jamesbond : TTY=pts/0 ; PWD=/tmp/acl_test ; USER=root ; COMMAND=/usr/bin/setfacl -m u:utest:rw utest.txt
+/var/log/auth.log:Apr 28 22:20:56 DevOps sudo: jamesbond : TTY=pts/0 ; PWD=/tmp ; USER=root ; COMMAND=/usr/bin/setfacl -m u:utest:rw /tmp/acl_test
+/var/log/auth.log:Apr 28 22:21:12 DevOps su[19538]: Successful su for utest by jamesbond
+/var/log/auth.log:Apr 28 22:21:12 DevOps su[19538]: + /dev/pts/0 jamesbond:utest
+/var/log/auth.log:Apr 28 22:21:12 DevOps su[19538]: pam_unix(su:session): session opened for user utest by (uid=1000)
+/var/log/auth.log:Apr 28 22:21:12 DevOps systemd: pam_unix(systemd-user:session): session opened for user utest by (uid=0)
+/var/log/auth.log:Apr 28 22:21:12 DevOps systemd-logind[904]: New session 4 of user utest.
+/var/log/auth.log:Apr 28 22:22:34 DevOps su[19538]: pam_unix(su:session): session closed for user utest
+/var/log/auth.log:Apr 28 22:22:59 DevOps sudo: jamesbond : TTY=pts/0 ; PWD=/tmp ; USER=root ; COMMAND=/usr/bin/setfacl -m u:utest:rw /tmp/acl_test
+/var/log/auth.log:Apr 28 22:26:18 DevOps sudo: jamesbond : TTY=pts/0 ; PWD=/tmp ; USER=root ; COMMAND=/usr/bin/setfacl -m u:utest:r /tmp/acl_test
+/var/log/auth.log:Apr 28 22:27:00 DevOps sudo: jamesbond : TTY=pts/0 ; PWD=/tmp ; USER=root ; COMMAND=/usr/bin/setfacl -d u:utest:r /tmp/acl_test
+/var/log/auth.log:Apr 28 22:29:33 DevOps sudo: jamesbond : TTY=pts/0 ; PWD=/tmp ; USER=root ; COMMAND=/usr/bin/setfacl -d -m u:utest:r,g::-,o::- /tmp/acl_test
+/var/log/auth.log:Apr 28 22:29:51 DevOps sudo: jamesbond : TTY=pts/0 ; PWD=/tmp ; USER=root ; COMMAND=/usr/bin/setfacl -d -m u:utest:r,g::-,o::- /tmp/acl_test
+/var/log/auth.log:Apr 28 22:30:21 DevOps su[24772]: Successful su for utest by jamesbond
+/var/log/auth.log:Apr 28 22:30:21 DevOps su[24772]: + /dev/pts/0 jamesbond:utest
+/var/log/auth.log:Apr 28 22:30:21 DevOps su[24772]: pam_unix(su:session): session opened for user utest by (uid=1000)
+/var/log/auth.log:Apr 28 22:30:21 DevOps systemd: pam_unix(systemd-user:session): session opened for user utest by (uid=0)
+/var/log/auth.log:Apr 28 22:30:21 DevOps systemd-logind[904]: New session 4 of user utest.
+/var/log/auth.log:Apr 28 22:34:31 DevOps su[24772]: pam_unix(su:session): session closed for user utest
+/var/log/auth.log:Apr 28 22:34:53 DevOps sudo: jamesbond : TTY=pts/0 ; PWD=/tmp/acl_test ; USER=root ; COMMAND=/usr/bin/setfacl -m m::r utest.txt
+/var/log/auth.log.1:Apr 25 22:50:16 DevOps sudo: jamesbond : TTY=pts/0 ; PWD=/home/jamesbond ; USER=root ; COMMAND=/usr/sbin/groupadd utest
+/var/log/auth.log.1:Apr 25 22:50:16 DevOps groupadd[22444]: group added to /etc/group: name=utest, GID=1001
+/var/log/auth.log.1:Apr 25 22:50:16 DevOps groupadd[22444]: group added to /etc/gshadow: name=utest
+/var/log/auth.log.1:Apr 25 22:50:16 DevOps groupadd[22444]: new group: name=utest, GID=1001
+/var/log/auth.log.1:Apr 25 22:51:59 DevOps sudo: jamesbond : TTY=pts/0 ; PWD=/home/jamesbond ; USER=root ; COMMAND=/usr/sbin/useradd -g utest -s /bin/bash -d /home/utest -m utest
+/var/log/auth.log.1:Apr 25 22:52:00 DevOps useradd[22504]: new user: name=utest, UID=1001, GID=1001, home=/home/utest, shell=/bin/bash
+/var/log/auth.log.1:Apr 25 22:52:17 DevOps passwd[22518]: passwd: can't view or modify password information for utest
+/var/log/auth.log.1:Apr 25 22:52:35 DevOps sudo: jamesbond : TTY=pts/0 ; PWD=/home/jamesbond ; USER=root ; COMMAND=/usr/bin/passwd utest
+/var/log/auth.log.1:Apr 25 22:52:46 DevOps passwd[22544]: pam_unix(passwd:chauthtok): password changed for utest
+/var/log/kern.log:Apr 26 22:01:41 DevOps kernel: [   16.244663] vboxguest: loading out-of-tree module taints kernel.
+/var/log/kern.log:Apr 26 22:01:41 DevOps kernel: [   16.254066] vboxguest: misc device minor 55, IRQ 20, I/O port d040, MMIO at 00000000f8400000 (size 0x400000)
+/var/log/kern.log:Apr 26 22:01:41 DevOps kernel: [   16.254067] vboxguest: Successfully loaded version 6.0.14_Ubuntu (interface 0x00010004)
+/var/log/kern.log:Apr 27 21:48:36 DevOps kernel: [   15.934550] vboxguest: loading out-of-tree module taints kernel.
+/var/log/kern.log:Apr 27 21:48:36 DevOps kernel: [   15.957583] vboxguest: misc device minor 55, IRQ 20, I/O port d040, MMIO at 00000000f8400000 (size 0x400000)
+/var/log/kern.log:Apr 27 21:48:36 DevOps kernel: [   15.957585] vboxguest: Successfully loaded version 6.0.14_Ubuntu (interface 0x00010004)
+/var/log/kern.log:Apr 28 21:07:51 DevOps kernel: [   18.103705] vboxguest: loading out-of-tree module taints kernel.
+/var/log/kern.log:Apr 28 21:07:51 DevOps kernel: [   18.114353] vboxguest: misc device minor 55, IRQ 20, I/O port d040, MMIO at 00000000f8400000 (size 0x400000)
+/var/log/kern.log:Apr 28 21:07:51 DevOps kernel: [   18.114355] vboxguest: Successfully loaded version 6.0.14_Ubuntu (interface 0x00010004)
+/var/log/syslog.1:Apr 27 00:41:12 DevOps systemd[1]: Created slice User Slice of guest.
+/var/log/syslog.1:Apr 27 00:41:13 DevOps systemd[1]: Started Session 3 of user guest.
+/var/log/syslog.1:Apr 27 00:43:12 DevOps systemd[1]: Removed slice User Slice of guest.
+/var/log/syslog.1:Apr 27 21:48:36 DevOps kernel: [   15.934550] vboxguest: loading out-of-tree module taints kernel.
+/var/log/syslog.1:Apr 27 21:48:36 DevOps kernel: [   15.957583] vboxguest: misc device minor 55, IRQ 20, I/O port d040, MMIO at 00000000f8400000 (size 0x400000)
+/var/log/syslog.1:Apr 27 21:48:36 DevOps kernel: [   15.957585] vboxguest: Successfully loaded version 6.0.14_Ubuntu (interface 0x00010004)
+/var/log/syslog.1:Apr 27 23:05:01 DevOps systemd[1]: Created slice User Slice of utest.
+/var/log/syslog.1:Apr 27 23:05:01 DevOps systemd[1]: Started Session 3 of user utest.
+/var/log/syslog.1:Apr 27 23:05:39 DevOps systemd[1]: Removed slice User Slice of utest.
+/var/log/syslog.1:Apr 27 23:05:47 DevOps systemd[1]: Created slice User Slice of guest.
+/var/log/syslog.1:Apr 27 23:05:48 DevOps systemd[1]: Started Session 3 of user guest.
+/var/log/syslog.1:Apr 27 23:11:11 DevOps systemd[1]: Removed slice User Slice of guest.
+/var/log/syslog.1:Apr 27 23:11:18 DevOps systemd[1]: Created slice User Slice of guest.
+/var/log/syslog.1:Apr 27 23:11:18 DevOps systemd[1]: Started Session 3 of user guest.
+/var/log/syslog.1:Apr 27 23:37:30 DevOps systemd[1]: Started Session c2 of user guest.
+/var/log/syslog:Apr 28 00:56:00 DevOps systemd[1]: Started Session c3 of user guest.
+/var/log/syslog:Apr 28 00:59:06 DevOps systemd[1]: Started Session c4 of user guest.
+/var/log/syslog:Apr 28 01:05:06 DevOps systemd[1]: Started Session c5 of user guest.
+/var/log/syslog:Apr 28 01:32:35 DevOps systemd[1]: Removed slice User Slice of guest.
+/var/log/syslog:Apr 28 01:50:19 DevOps systemd[1]: Created slice User Slice of utest.
+/var/log/syslog:Apr 28 01:50:20 DevOps systemd[1]: Started Session 3 of user utest.
+/var/log/syslog:Apr 28 01:51:25 DevOps systemd[1]: Removed slice User Slice of utest.
+/var/log/syslog:Apr 28 01:51:53 DevOps systemd[1]: Created slice User Slice of utest.
+/var/log/syslog:Apr 28 01:51:53 DevOps systemd[1]: Started Session 3 of user utest.
+/var/log/syslog:Apr 28 01:56:10 DevOps systemd[1]: Removed slice User Slice of utest.
+/var/log/syslog:Apr 28 01:58:15 DevOps systemd[1]: Created slice User Slice of utest.
+/var/log/syslog:Apr 28 01:58:15 DevOps systemd[1]: Started Session 3 of user utest.
+/var/log/syslog:Apr 28 01:59:01 DevOps systemd[1]: Removed slice User Slice of utest.
+/var/log/syslog:Apr 28 01:59:55 DevOps systemd[1]: Created slice User Slice of utest.
+/var/log/syslog:Apr 28 01:59:56 DevOps systemd[1]: Started Session 3 of user utest.
+/var/log/syslog:Apr 28 02:00:43 DevOps systemd[1]: Removed slice User Slice of utest.
+/var/log/syslog:Apr 28 02:01:29 DevOps systemd[1]: Created slice User Slice of utest.
+/var/log/syslog:Apr 28 02:01:29 DevOps systemd[1]: Started Session 3 of user utest.
+/var/log/syslog:Apr 28 02:02:02 DevOps systemd[1]: Removed slice User Slice of utest.
+/var/log/syslog:Apr 28 02:04:19 DevOps systemd[1]: Created slice User Slice of utest.
+/var/log/syslog:Apr 28 02:04:19 DevOps systemd[1]: Started Session 3 of user utest.
+/var/log/syslog:Apr 28 02:06:39 DevOps systemd[1]: Removed slice User Slice of utest.
+/var/log/syslog:Apr 28 02:07:16 DevOps systemd[1]: Created slice User Slice of utest.
+/var/log/syslog:Apr 28 02:07:16 DevOps systemd[1]: Started Session 3 of user utest.
+/var/log/syslog:Apr 28 02:09:58 DevOps systemd[1]: Removed slice User Slice of utest.
+/var/log/syslog:Apr 28 02:11:45 DevOps systemd[1]: Created slice User Slice of utest.
+/var/log/syslog:Apr 28 02:11:46 DevOps systemd[1]: Started Session 3 of user utest.
+/var/log/syslog:Apr 28 02:14:22 DevOps systemd[1]: Removed slice User Slice of utest.
+/var/log/syslog:Apr 28 21:07:51 DevOps kernel: [   18.103705] vboxguest: loading out-of-tree module taints kernel.
+/var/log/syslog:Apr 28 21:07:51 DevOps kernel: [   18.114353] vboxguest: misc device minor 55, IRQ 20, I/O port d040, MMIO at 00000000f8400000 (size 0x400000)
+/var/log/syslog:Apr 28 21:07:51 DevOps kernel: [   18.114355] vboxguest: Successfully loaded version 6.0.14_Ubuntu (interface 0x00010004)
+/var/log/syslog:Apr 28 22:12:55 DevOps systemd[1]: Created slice User Slice of utest.
+/var/log/syslog:Apr 28 22:12:55 DevOps systemd[1]: Started Session 4 of user utest.
+/var/log/syslog:Apr 28 22:19:09 DevOps systemd[1]: Removed slice User Slice of utest.
+/var/log/syslog:Apr 28 22:21:12 DevOps systemd[1]: Created slice User Slice of utest.
+/var/log/syslog:Apr 28 22:21:12 DevOps systemd[1]: Started Session 4 of user utest.
+/var/log/syslog:Apr 28 22:22:34 DevOps systemd[1]: Removed slice User Slice of utest.
+/var/log/syslog:Apr 28 22:30:21 DevOps systemd[1]: Created slice User Slice of utest.
+/var/log/syslog:Apr 28 22:30:21 DevOps systemd[1]: Started Session 4 of user utest.
+/var/log/syslog:Apr 28 22:34:31 DevOps systemd[1]: Removed slice User Slice of utest.
+Binary file /var/log/journal/06df5944314447ecad499254b41dd3e0/system.journal matches
+Binary file /var/log/journal/06df5944314447ecad499254b41dd3e0/user-1001.journal matches
+Binary file /var/log/journal/06df5944314447ecad499254b41dd3e0/system@ea888250e57f4e61a81beae3cde276c8-0000000000000001-0005a29b4bad2859.journal matches
+Binary file /var/log/journal/06df5944314447ecad499254b41dd3e0/user-1000@24ba2ec30d904afb9d9069f898cb86b5-0000000000000418-0005a29b4f34ad05.journal matches
+Binary file /var/log/journal/06df5944314447ecad499254b41dd3e0/user-1000.journal matches
+Binary file /var/log/journal/06df5944314447ecad499254b41dd3e0/user-1002.journal matches
