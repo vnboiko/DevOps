@@ -1,0 +1,201 @@
+.:
+total 65344
+-rw-r--r-- 1 Boiko Boiko     7560 Apr 29 08:11 4.8.1.txt
+-rw-r--r-- 1 Boiko Boiko    10240 Apr 12 01:29 arh.tar
+-rw-r--r-- 1 Boiko Boiko      189 Apr 12 01:25 arh.tar.gz
+drwxr-xr-x 3 Boiko Boiko     4096 Apr 25 22:33 Desktop
+drwxr-xr-x 2 Boiko Boiko     4096 Apr  6 11:47 Documents
+drwxr-xr-x 2 Boiko Boiko     4096 Apr 25 22:33 Downloads
+-rw-r--r-- 1 Boiko Boiko     8980 Apr  6 11:37 examples.desktop
+-rw-r--r-- 1 Boiko Boiko      348 Apr  6 18:20 kubernetes.yml
+-rw-r--r-- 1 Boiko Boiko        0 Apr 27 22:17 lg.txt
+-rw-r--r-- 1 Boiko Boiko    10218 Feb 26 02:39 linux_signing_key.pub
+drwxr-xr-x 2 Boiko Boiko     4096 Apr  6 11:47 Music
+-rw-r--r-- 1 Boiko Boiko 66612224 Apr  6 17:28 myimage.tar
+drwxr-xr-x 2 Boiko Boiko     4096 Apr 28 23:01 Pictures
+drwxr-xr-x 2 Boiko Boiko     4096 Apr  6 11:47 Public
+-rw-r--r-- 1 Boiko Boiko        0 Apr 27 23:00 setfacl
+-rw-r--r-- 1 Boiko Boiko        0 Apr 18 22:42 setuid.txt
+drwxr-xr-x 3 Boiko Boiko     4096 Oct 26  2014 Shakespeare
+-rw-rw-r-- 1 Boiko Boiko   176758 Apr 12 23:48 shakespeare.tar.gz
+-rw-r--r-- 1 Boiko Boiko     1743 Sep 14  2017 SKYPE-GPG-KEY
+drwxr-xr-x 6 Boiko Boiko     4096 Apr 26 01:31 snap
+-rw-r--r-- 1 Boiko Boiko    15564 Apr 13 00:02 stdout.txt
+drwxr-xr-x 2 Boiko Boiko     4096 Apr  6 11:47 Templates
+drwxr-xr-x 3 Boiko Boiko     4096 Apr 12 00:34 test
+-rw-r--r-- 1 Boiko Boiko        0 Apr 12 00:59 test.txt
+drwxr-xr-x 2 Boiko Boiko     4096 Apr  6 11:47 Videos
+
+./Desktop:
+total 4
+drwxrwxr-x 5 Boiko Boiko 4096 Apr 29 08:24 Epam
+
+./Desktop/Epam:
+total 12
+drwxr-xr-x 2 Boiko Boiko 4096 Apr 29 08:27 4.8
+drwxr-xr-x 3 Boiko Boiko 4096 Apr 25 22:33 Homework-20200425T193005Z-001
+drwxr-xr-x 3 Boiko Boiko 4096 Apr 25 22:33 Lectures-20200425T193038Z-001
+
+./Desktop/Epam/4.8:
+total 4
+-rwxr-xr-x 1 Boiko Boiko 64 Apr 29 08:27 4.8.1.sh
+-rw-r--r-- 1 Boiko Boiko  0 Apr 29 08:27 4.8.1.txt
+
+./Desktop/Epam/Homework-20200425T193005Z-001:
+total 4
+drwxr-xr-x 3 Boiko Boiko 4096 Apr 29 08:17 Homework
+
+./Desktop/Epam/Homework-20200425T193005Z-001/Homework:
+total 1108
+-rw-rw-r-- 1 Boiko Boiko    221 Mar 20 13:41 Dashboard.url
+-rw-rw-r-- 1 Boiko Boiko  42111 Apr 19 15:33 __root_entries.txt
+-rw-rw-r-- 1 Boiko Boiko 348337 Apr 19 15:44 __task4_5.docx
+-rw-rw-r-- 1 Boiko Boiko  13834 Apr 16 12:11 task4_5.docx
+-rw-rw-r-- 1 Boiko Boiko 660012 Apr 20 12:22 _task4_6.docx
+-rw-rw-r-- 1 Boiko Boiko  13948 Apr 16 12:11 task4_6.docx
+drwxr-xr-x 2 Boiko Boiko   4096 Apr 28 23:02 task 4_7
+-rw-rw-r-- 1 Boiko Boiko  15727 Apr 24 07:36 task4_7.docx
+-rw-rw-r-- 1 Boiko Boiko  13544 Apr 24 10:52 task4_8.docx
+
+./Desktop/Epam/Homework-20200425T193005Z-001/Homework/task 4_7:
+total 852
+-rw-r--r-- 1 Boiko Boiko  28735 Apr 28 22:54 log.txt
+-rw-r--r-- 1 Boiko Boiko 839297 Apr 28 23:02 _task4_7.docx
+
+./Desktop/Epam/Lectures-20200425T193038Z-001:
+total 4
+drwxr-xr-x 2 Boiko Boiko 4096 Apr 25 22:33 Lectures
+
+./Desktop/Epam/Lectures-20200425T193038Z-001/Lectures:
+total 31708
+-rw-rw-r-- 1 Boiko Boiko 5492516 Mar 26 12:48 Lecture 1.1 Intro AG.pptx
+-rw-rw-r-- 1 Boiko Boiko 1473266 Mar 20 13:42 Lecture 2.1_s.pdf
+-rw-rw-r-- 1 Boiko Boiko 1631581 Mar 26 12:48 lecture_2_2.pptx
+-rw-rw-r-- 1 Boiko Boiko 6681726 Mar 26 12:48 Lecture 2.3_s.pdf
+-rw-rw-r-- 1 Boiko Boiko 4552467 Mar 31 12:03 Lecture 2.4_s.pdf
+-rw-rw-r-- 1 Boiko Boiko 1850084 Apr 13 08:32 Lecture 3.1 AWS AG.pptx
+-rw-rw-r-- 1 Boiko Boiko 1363587 Apr  6 00:09 Lecture 4.1s.pdf
+-rw-rw-r-- 1 Boiko Boiko 1116142 Apr  6 00:09 Lecture 4.2s.pdf
+-rw-rw-r-- 1 Boiko Boiko 1640230 Apr 24 11:54 Lecture 4.3s.pdf
+-rw-rw-r-- 1 Boiko Boiko 1714091 Apr 24 11:54 Lecture 4.4s.pdf
+-rw-rw-r-- 1 Boiko Boiko 1055566 Apr 24 11:54 Lecture 4.5s.pdf
+-rw-rw-r-- 1 Boiko Boiko  802884 Apr 15 08:36 Lecture 4.6s.pdf
+-rw-rw-r-- 1 Boiko Boiko 1123679 Apr 22 09:04 Lecture 4.7s.pdf
+-rw-rw-r-- 1 Boiko Boiko 1943649 Apr 24 11:55 Lecture 4.8s.pdf
+
+./Documents:
+total 0
+
+./Downloads:
+total 29876
+-rw-rw-r-- 1 Boiko Boiko  1064329 Apr 25 22:30 Homework-20200425T193005Z-001.zip
+-rw-rw-r-- 1 Boiko Boiko 29522592 Apr 25 22:32 Lectures-20200425T193038Z-001.zip
+
+./Music:
+total 0
+
+./Pictures:
+total 360
+-rw-rw-r-- 1 Boiko Boiko 40208 Apr 28 01:49 Screenshot from 2020-04-28 01-49-31.png
+-rw-rw-r-- 1 Boiko Boiko 51581 Apr 28 01:53 Screenshot from 2020-04-28 01-53-14.png
+-rw-rw-r-- 1 Boiko Boiko 44018 Apr 28 02:12 Screenshot from 2020-04-28 02-12-09.png
+-rw-rw-r-- 1 Boiko Boiko 62467 Apr 28 22:32 Screenshot from 2020-04-28 22-32-01.png
+-rw-rw-r-- 1 Boiko Boiko 53621 Apr 28 22:37 Screenshot from 2020-04-28 22-37-40.png
+-rw-rw-r-- 1 Boiko Boiko 23884 Apr 28 22:42 Screenshot from 2020-04-28 22-42-15.png
+-rw-rw-r-- 1 Boiko Boiko 79494 Apr 28 23:01 Screenshot from 2020-04-28 23-01-16.png
+
+./Public:
+total 0
+
+./Shakespeare:
+total 456
+drwxr-xr-x 2 Boiko Boiko   4096 Apr 12 23:56 Sonnets
+-rw-r--r-- 1 Boiko Boiko  93193 Oct 26  2014 THE COMEDY OF ERRORS.txt
+-rw-r--r-- 1 Boiko Boiko 168056 Oct 26  2014 THE TRAGEDY OF ANTONY AND CLEOPATRA.txt
+-rw-r--r-- 1 Boiko Boiko 195834 Oct 26  2014 THE TRAGEDY OF HAMLET, PRINCE OF DENMARK.txt
+
+./Shakespeare/Sonnets:
+total 16
+-rw-r--r-- 1 Boiko Boiko 6686 Oct 26  2014 1-10.txt
+-rw-r--r-- 1 Boiko Boiko 6819 Oct 26  2014 11-20.txt
+
+./snap:
+total 16
+drwxr-xr-x 4 Boiko Boiko 4096 Apr 26 01:31 gnome-calculator
+drwxr-xr-x 5 Boiko Boiko 4096 Apr 25 22:22 kubeadm
+drwxr-xr-x 5 Boiko Boiko 4096 Apr 25 22:21 kubectl
+drwxr-xr-x 5 Boiko Boiko 4096 Apr 28 21:13 microk8s
+
+./snap/gnome-calculator:
+total 8
+drwxr-xr-x 4 Boiko Boiko 4096 Apr 26 01:32 730
+drwxr-xr-x 3 Boiko Boiko 4096 Apr 26 01:31 common
+lrwxrwxrwx 1 Boiko Boiko    3 Apr 26 01:31 current -> 730
+
+./snap/gnome-calculator/730:
+total 0
+
+./snap/gnome-calculator/common:
+total 0
+
+./snap/kubeadm:
+total 12
+drwxr-xr-x 2 Boiko Boiko 4096 Apr  6 17:57 1515
+drwxr-xr-x 2 Boiko Boiko 4096 Apr  6 17:57 1534
+drwxr-xr-x 2 Boiko Boiko 4096 Apr  6 17:57 common
+lrwxrwxrwx 1 Boiko Boiko    4 Apr  6 17:57 current -> 1453
+
+./snap/kubeadm/1515:
+total 0
+
+./snap/kubeadm/1534:
+total 0
+
+./snap/kubeadm/common:
+total 0
+
+./snap/kubectl:
+total 12
+drwxr-xr-x 2 Boiko Boiko 4096 Apr  6 17:45 1486
+drwxr-xr-x 2 Boiko Boiko 4096 Apr  6 17:45 1506
+drwxr-xr-x 2 Boiko Boiko 4096 Apr  6 17:45 common
+lrwxrwxrwx 1 Boiko Boiko    4 Apr  6 17:45 current -> 1424
+
+./snap/kubectl/1486:
+total 0
+
+./snap/kubectl/1506:
+total 0
+
+./snap/kubectl/common:
+total 0
+
+./snap/microk8s:
+total 12
+drwxr-xr-x 2 Boiko Boiko 4096 Apr  6 16:55 1319
+drwxr-xr-x 2 Boiko Boiko 4096 Apr  6 16:55 1379
+drwxr-xr-x 2 Boiko Boiko 4096 Apr  6 16:55 common
+lrwxrwxrwx 1 Boiko Boiko    4 Apr  6 16:55 current -> 1319
+
+./snap/microk8s/1319:
+total 0
+
+./snap/microk8s/1379:
+total 0
+
+./snap/microk8s/common:
+total 0
+
+./Templates:
+total 0
+
+./test:
+total 4
+drwxr-xr-x 2 Boiko Boiko 4096 Apr 12 00:33 test
+-rw-r--r-- 1 Boiko Boiko    0 Apr 12 00:34 test.txt
+
+./test/test:
+total 0
+
+./Videos:
+total 0

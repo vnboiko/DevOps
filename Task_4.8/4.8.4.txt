@@ -1,0 +1,201 @@
+   
+   
+Apr 29 08:11 4.8.1.txt
+Apr 12 01:29 arh.tar
+Apr 12 01:25 arh.tar.gz
+Apr 25 22:33 Desktop
+Apr 6 11:47 Documents
+Apr 25 22:33 Downloads
+Apr 6 11:37 examples.desktop
+Apr 6 18:20 kubernetes.yml
+Apr 27 22:17 lg.txt
+Feb 26 02:39 linux_signing_key.pub
+Apr 6 11:47 Music
+Apr 6 17:28 myimage.tar
+Apr 28 23:01 Pictures
+Apr 6 11:47 Public
+Apr 27 23:00 setfacl
+Apr 18 22:42 setuid.txt
+Oct 26 2014 Shakespeare
+Apr 12 23:48 shakespeare.tar.gz
+Sep 14 2017 SKYPE-GPG-KEY
+Apr 26 01:31 snap
+Apr 13 00:02 stdout.txt
+Apr 6 11:47 Templates
+Apr 12 00:34 test
+Apr 12 00:59 test.txt
+Apr 6 11:47 Videos
+   
+   
+   
+Apr 29 08:24 Epam
+   
+   
+   
+Apr 29 08:27 4.8
+Apr 25 22:33 Homework-20200425T193005Z-001
+Apr 25 22:33 Lectures-20200425T193038Z-001
+   
+   
+   
+Apr 29 08:27 4.8.1.sh
+Apr 29 08:27 4.8.1.txt
+   
+   
+   
+Apr 29 08:17 Homework
+   
+   
+   
+Mar 20 13:41 Dashboard.url
+Apr 19 15:33 __root_entries.txt
+Apr 19 15:44 __task4_5.docx
+Apr 16 12:11 task4_5.docx
+Apr 20 12:22 _task4_6.docx
+Apr 16 12:11 task4_6.docx
+Apr 28 23:02 task
+Apr 24 07:36 task4_7.docx
+Apr 24 10:52 task4_8.docx
+   
+   
+   
+Apr 28 22:54 log.txt
+Apr 28 23:02 _task4_7.docx
+   
+   
+   
+Apr 25 22:33 Lectures
+   
+   
+   
+Mar 26 12:48 Lecture
+Mar 20 13:42 Lecture
+Mar 26 12:48 lecture_2_2.pptx
+Mar 26 12:48 Lecture
+Mar 31 12:03 Lecture
+Apr 13 08:32 Lecture
+Apr 6 00:09 Lecture
+Apr 6 00:09 Lecture
+Apr 24 11:54 Lecture
+Apr 24 11:54 Lecture
+Apr 24 11:54 Lecture
+Apr 15 08:36 Lecture
+Apr 22 09:04 Lecture
+Apr 24 11:55 Lecture
+   
+   
+   
+   
+   
+   
+Apr 25 22:30 Homework-20200425T193005Z-001.zip
+Apr 25 22:32 Lectures-20200425T193038Z-001.zip
+   
+   
+   
+   
+   
+   
+Apr 28 01:49 Screenshot
+Apr 28 01:53 Screenshot
+Apr 28 02:12 Screenshot
+Apr 28 22:32 Screenshot
+Apr 28 22:37 Screenshot
+Apr 28 22:42 Screenshot
+Apr 28 23:01 Screenshot
+   
+   
+   
+   
+   
+   
+Apr 12 23:56 Sonnets
+Oct 26 2014 THE
+Oct 26 2014 THE
+Oct 26 2014 THE
+   
+   
+   
+Oct 26 2014 1-10.txt
+Oct 26 2014 11-20.txt
+   
+   
+   
+Apr 26 01:31 gnome-calculator
+Apr 25 22:22 kubeadm
+Apr 25 22:21 kubectl
+Apr 28 21:13 microk8s
+   
+   
+   
+Apr 26 01:32 730
+Apr 26 01:31 common
+Apr 26 01:31 current
+   
+   
+   
+   
+   
+   
+   
+   
+   
+Apr 6 17:57 1515
+Apr 6 17:57 1534
+Apr 6 17:57 common
+Apr 6 17:57 current
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+Apr 6 17:45 1486
+Apr 6 17:45 1506
+Apr 6 17:45 common
+Apr 6 17:45 current
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+Apr 6 16:55 1319
+Apr 6 16:55 1379
+Apr 6 16:55 common
+Apr 6 16:55 current
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+Apr 12 00:33 test
+Apr 12 00:34 test.txt
+   
+   
+   
+   
+   
+   
