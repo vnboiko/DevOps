@@ -1,0 +1,1119 @@
+Mon  4 May 23:15:32 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+10932 pts/1    00:00:00 sleep
+15098 pts/1    00:00:00 4.10.2.sh
+15100 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:16:33 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+10932 pts/1    00:00:00 sleep
+15098 pts/1    00:00:00 4.10.2.sh
+16076 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:17:34 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+10932 pts/1    00:00:00 sleep
+15098 pts/1    00:00:00 4.10.2.sh
+16977 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:18:35 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+10932 pts/1    00:00:00 sleep
+15098 pts/1    00:00:00 4.10.2.sh
+17895 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:18:39 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+10932 pts/1    00:00:00 sleep
+15098 pts/1    00:00:00 4.10.2.sh
+17896 pts/1    00:00:00 sleep
+17988 pts/1    00:00:00 4.10.2.sh
+17990 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:19:36 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+10932 pts/1    00:00:00 sleep
+15098 pts/1    00:00:00 4.10.2.sh
+17988 pts/1    00:00:00 4.10.2.sh
+17991 pts/1    00:00:00 sleep
+18802 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:19:40 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+10932 pts/1    00:00:00 sleep
+15098 pts/1    00:00:00 4.10.2.sh
+17988 pts/1    00:00:00 4.10.2.sh
+18803 pts/1    00:00:00 sleep
+18867 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:21:36 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+10932 pts/1    00:00:00 sleep
+20703 pts/1    00:00:00 4.10.2.sh
+20705 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:22:37 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+10932 pts/1    00:00:00 sleep
+20703 pts/1    00:00:00 4.10.2.sh
+21600 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:23:38 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+10932 pts/1    00:00:00 sleep
+20703 pts/1    00:00:00 4.10.2.sh
+22496 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:24:38 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+10932 pts/1    00:00:00 sleep
+20703 pts/1    00:00:00 4.10.2.sh
+23390 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:25:39 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+10932 pts/1    00:00:00 sleep
+20703 pts/1    00:00:00 4.10.2.sh
+24322 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:26:40 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+10932 pts/1    00:00:00 sleep
+20703 pts/1    00:00:00 4.10.2.sh
+25272 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:27:41 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+10932 pts/1    00:00:00 sleep
+20703 pts/1    00:00:00 4.10.2.sh
+26146 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:28:42 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+10932 pts/1    00:00:00 sleep
+20703 pts/1    00:00:00 4.10.2.sh
+27074 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:29:42 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+10932 pts/1    00:00:00 sleep
+20703 pts/1    00:00:00 4.10.2.sh
+27947 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:30:43 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+10932 pts/1    00:00:00 sleep
+20703 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+28885 pts/1    00:00:00 ps
+Mon  4 May 23:31:44 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+10932 pts/1    00:00:00 sleep
+20703 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+29919 pts/1    00:00:00 ps
+Mon  4 May 23:32:45 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+10932 pts/1    00:00:00 sleep
+20703 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+30818 pts/1    00:00:00 ps
+Mon  4 May 23:33:46 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+10932 pts/1    00:00:00 sleep
+20703 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+31748 pts/1    00:00:00 ps
+Mon  4 May 23:34:46 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+10932 pts/1    00:00:00 sleep
+20703 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+32624 pts/1    00:00:00 ps
+Mon  4 May 23:35:47 EEST 2020
+  PID TTY          TIME CMD
+ 1175 pts/1    00:00:00 ps
+ 4946 pts/1    00:00:00 4.10.2.sh
+10932 pts/1    00:00:00 sleep
+20703 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:36:48 EEST 2020
+  PID TTY          TIME CMD
+ 2247 pts/1    00:00:00 ps
+ 4946 pts/1    00:00:00 4.10.2.sh
+10932 pts/1    00:00:00 sleep
+20703 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:37:49 EEST 2020
+  PID TTY          TIME CMD
+ 3163 pts/1    00:00:00 ps
+ 4946 pts/1    00:00:00 4.10.2.sh
+10932 pts/1    00:00:00 sleep
+20703 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:38:50 EEST 2020
+  PID TTY          TIME CMD
+ 4214 pts/1    00:00:00 ps
+ 4946 pts/1    00:00:00 4.10.2.sh
+10932 pts/1    00:00:00 sleep
+20703 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:39:51 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5210 pts/1    00:00:00 ps
+10932 pts/1    00:00:00 sleep
+20703 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:40:26 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5211 pts/1    00:00:00 sleep
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 5763 pts/1    00:00:00 ps
+10932 pts/1    00:00:00 sleep
+20703 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:40:51 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 5764 pts/1    00:00:00 sleep
+ 6130 pts/1    00:00:00 ps
+10932 pts/1    00:00:00 sleep
+20703 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:41:27 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 6131 pts/1    00:00:00 sleep
+ 6708 pts/1    00:00:00 ps
+10932 pts/1    00:00:00 sleep
+20703 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:41:52 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 6709 pts/1    00:00:00 sleep
+ 7125 pts/1    00:00:00 ps
+10932 pts/1    00:00:00 sleep
+20703 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:42:27 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 7126 pts/1    00:00:00 sleep
+ 7636 pts/1    00:00:00 ps
+10932 pts/1    00:00:00 sleep
+20703 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:42:52 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 7637 pts/1    00:00:00 sleep
+ 7996 pts/1    00:00:00 ps
+10932 pts/1    00:00:00 sleep
+20703 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:43:28 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 7997 pts/1    00:00:00 sleep
+ 8577 pts/1    00:00:00 ps
+10932 pts/1    00:00:00 sleep
+20703 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:43:53 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+ 8949 pts/1    00:00:00 ps
+10932 pts/1    00:00:00 sleep
+20703 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:44:54 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+ 9826 pts/1    00:00:00 ps
+10932 pts/1    00:00:00 sleep
+20703 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:45:55 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10820 pts/1    00:00:00 ps
+10932 pts/1    00:00:00 sleep
+20703 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:46:56 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+11866 pts/1    00:00:00 ps
+20703 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:47:57 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+12893 pts/1    00:00:00 ps
+20703 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:48:58 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+13955 pts/1    00:00:00 ps
+20703 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:53:48 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+18364 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:54:48 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+19243 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:55:49 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+20141 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:56:50 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+21012 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:57:50 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+22029 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:58:51 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+22932 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Mon  4 May 23:59:52 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+23806 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:00:52 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+24756 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:01:53 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+25632 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:02:54 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+26651 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:03:55 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+27549 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:04:55 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+28438 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:05:56 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+29324 pts/1    00:00:00 ps
+Tue  5 May 00:06:03 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+29325 pts/1    00:00:00 sleep
+29423 pts/1    00:00:00 4.10.2.sh
+29425 pts/1    00:00:00 ps
+Tue  5 May 00:06:57 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+29423 pts/1    00:00:00 4.10.2.sh
+29426 pts/1    00:00:00 sleep
+30537 pts/1    00:00:00 ps
+Tue  5 May 00:07:04 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+29423 pts/1    00:00:00 4.10.2.sh
+30538 pts/1    00:00:00 sleep
+30653 pts/1    00:00:00 ps
+Tue  5 May 00:07:58 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+30655 pts/1    00:00:00 sleep
+31571 pts/1    00:00:00 ps
+Tue  5 May 00:08:58 EEST 2020
+  PID TTY          TIME CMD
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+32472 pts/1    00:00:00 ps
+Tue  5 May 00:09:59 EEST 2020
+  PID TTY          TIME CMD
+ 1011 pts/1    00:00:00 ps
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:11:00 EEST 2020
+  PID TTY          TIME CMD
+ 1959 pts/1    00:00:00 ps
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:12:01 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:00 top
+ 2915 pts/1    00:00:00 ps
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:13:02 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:00 top
+ 4098 pts/1    00:00:00 ps
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:14:03 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:01 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5065 pts/1    00:00:00 ps
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:15:03 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:01 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 6000 pts/1    00:00:00 ps
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:16:04 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:02 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 6878 pts/1    00:00:00 ps
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:17:05 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:03 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 7770 pts/1    00:00:00 ps
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:18:06 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:03 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+ 8791 pts/1    00:00:00 ps
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:19:07 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:04 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+ 9678 pts/1    00:00:00 ps
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:20:07 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:05 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10634 pts/1    00:00:00 ps
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:21:08 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:05 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+11640 pts/1    00:00:00 ps
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:22:09 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:06 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+12534 pts/1    00:00:00 ps
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:23:10 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:06 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+13804 pts/1    00:00:00 ps
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:24:10 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:07 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+14732 pts/1    00:00:00 ps
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:25:11 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:08 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+15600 pts/1    00:00:00 ps
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:26:11 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:09 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+16491 pts/1    00:00:00 ps
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:27:12 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:10 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+17348 pts/1    00:00:00 ps
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:28:12 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:11 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+18379 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:29:13 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:11 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+19255 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:30:13 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:12 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+20125 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:31:13 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:12 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+21049 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:32:14 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:13 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+21948 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:33:14 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:14 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+22938 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:34:15 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:14 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+23810 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:35:15 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:15 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+24704 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:36:16 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:16 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+25576 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:37:16 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:17 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+26476 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:38:17 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:17 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+27478 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:39:17 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:17 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+28412 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+Tue  5 May 00:40:18 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:17 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+29321 pts/1    00:00:00 ps
+Tue  5 May 00:41:18 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:17 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+30229 pts/1    00:00:00 ps
+Tue  5 May 00:42:18 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:17 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+31127 pts/1    00:00:00 ps
+Tue  5 May 00:43:19 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:17 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+32035 pts/1    00:00:00 ps
+Tue  5 May 00:44:19 EEST 2020
+  PID TTY          TIME CMD
+  624 pts/1    00:00:00 ps
+ 2689 pts/1    00:00:17 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+32326 pts/1    00:00:00 top
+Tue  5 May 00:45:20 EEST 2020
+  PID TTY          TIME CMD
+  799 pts/1    00:00:00 top
+ 1609 pts/1    00:00:00 ps
+ 2689 pts/1    00:00:17 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+32326 pts/1    00:00:00 top
+Tue  5 May 00:46:20 EEST 2020
+  PID TTY          TIME CMD
+ 2571 pts/1    00:00:00 ps
+ 2689 pts/1    00:00:17 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+32326 pts/1    00:00:00 top
+Tue  5 May 00:47:21 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:17 top
+ 3535 pts/1    00:00:00 ps
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+32326 pts/1    00:00:00 top
+Tue  5 May 00:48:21 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:17 top
+ 4509 pts/1    00:00:00 top
+ 4577 pts/1    00:00:00 ps
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+32326 pts/1    00:00:00 top
+Tue  5 May 00:49:22 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:17 top
+ 4509 pts/1    00:00:00 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5669 pts/1    00:00:00 ps
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+32326 pts/1    00:00:00 top
+Tue  5 May 00:50:22 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:17 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 6038 pts/1    00:00:00 top
+ 6586 pts/1    00:00:00 ps
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+32326 pts/1    00:00:00 top
+Tue  5 May 00:51:23 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:17 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 6038 pts/1    00:00:00 top
+ 6629 pts/1    00:00:00 top
+ 7496 pts/1    00:00:00 ps
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+32326 pts/1    00:00:00 top
+Tue  5 May 00:52:23 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:17 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 6038 pts/1    00:00:00 top
+ 6629 pts/1    00:00:00 top
+ 7635 pts/1    00:00:00 top
+ 8381 pts/1    00:00:00 ps
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+32326 pts/1    00:00:00 top
+Tue  5 May 00:53:24 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:17 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 6038 pts/1    00:00:00 top
+ 6629 pts/1    00:00:00 top
+ 7635 pts/1    00:00:01 top
+ 8578 pts/1    00:00:00 sleep
+ 9307 pts/1    00:00:00 ps
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+32326 pts/1    00:00:00 top
+Tue  5 May 00:54:25 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:17 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 6038 pts/1    00:00:00 top
+ 6629 pts/1    00:00:00 top
+ 7635 pts/1    00:00:01 top
+ 8578 pts/1    00:00:00 sleep
+10360 pts/1    00:00:00 ps
+10932 pts/1    00:00:00 sleep
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+32326 pts/1    00:00:00 top
+Tue  5 May 00:55:25 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:17 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 6038 pts/1    00:00:00 top
+ 6629 pts/1    00:00:00 top
+ 7635 pts/1    00:00:02 top
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+11276 pts/1    00:00:00 ps
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+32326 pts/1    00:00:00 top
+Tue  5 May 00:56:25 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:17 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 6038 pts/1    00:00:00 top
+ 6629 pts/1    00:00:00 top
+ 7635 pts/1    00:00:02 top
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+11762 pts/1    00:00:00 top
+12208 pts/1    00:00:00 ps
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+32326 pts/1    00:00:00 top
+Tue  5 May 00:57:26 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:17 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 6038 pts/1    00:00:00 top
+ 6629 pts/1    00:00:00 top
+ 7635 pts/1    00:00:02 top
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+11762 pts/1    00:00:00 top
+13313 pts/1    00:00:00 ps
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+32326 pts/1    00:00:00 top
+Tue  5 May 00:58:26 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:17 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 6038 pts/1    00:00:00 top
+ 6629 pts/1    00:00:00 top
+ 7635 pts/1    00:00:02 top
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+11762 pts/1    00:00:00 top
+14281 pts/1    00:00:00 ps
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+32326 pts/1    00:00:00 top
+Tue  5 May 00:59:27 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:17 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 6038 pts/1    00:00:00 top
+ 6629 pts/1    00:00:00 top
+ 7635 pts/1    00:00:02 top
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+11762 pts/1    00:00:00 top
+15298 pts/1    00:00:00 ps
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+32326 pts/1    00:00:00 top
+Tue  5 May 01:00:27 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:17 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 6038 pts/1    00:00:00 top
+ 6629 pts/1    00:00:00 top
+ 7635 pts/1    00:00:02 top
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+11762 pts/1    00:00:00 top
+16203 pts/1    00:00:00 ps
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+32326 pts/1    00:00:00 top
+Tue  5 May 01:01:28 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:17 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 6038 pts/1    00:00:00 top
+ 6629 pts/1    00:00:00 top
+ 7635 pts/1    00:00:02 top
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+11762 pts/1    00:00:00 top
+17145 pts/1    00:00:00 ps
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+32326 pts/1    00:00:00 top
+Tue  5 May 01:02:28 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:17 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 6038 pts/1    00:00:00 top
+ 6629 pts/1    00:00:00 top
+ 7635 pts/1    00:00:02 top
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+11762 pts/1    00:00:00 top
+18093 pts/1    00:00:00 ps
+18362 pts/1    00:00:00 4.10.2.sh
+28884 pts/1    00:00:00 bash
+32326 pts/1    00:00:00 top
+Tue  5 May 01:03:29 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:17 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 6038 pts/1    00:00:00 top
+ 6629 pts/1    00:00:00 top
+ 7635 pts/1    00:00:02 top
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+11762 pts/1    00:00:00 top
+18362 pts/1    00:00:00 4.10.2.sh
+18998 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+32326 pts/1    00:00:00 top
+Tue  5 May 01:04:29 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:17 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 6038 pts/1    00:00:00 top
+ 6629 pts/1    00:00:00 top
+ 7635 pts/1    00:00:02 top
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+11762 pts/1    00:00:00 top
+18362 pts/1    00:00:00 4.10.2.sh
+19939 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+32326 pts/1    00:00:00 top
+Tue  5 May 01:05:30 EEST 2020
+  PID TTY          TIME CMD
+ 2689 pts/1    00:00:17 top
+ 4946 pts/1    00:00:00 4.10.2.sh
+ 5761 pts/1    00:00:00 4.10.2.sh
+ 6038 pts/1    00:00:00 top
+ 6629 pts/1    00:00:00 top
+ 7635 pts/1    00:00:02 top
+ 8578 pts/1    00:00:00 sleep
+10932 pts/1    00:00:00 sleep
+11762 pts/1    00:00:00 top
+18362 pts/1    00:00:00 4.10.2.sh
+20939 pts/1    00:00:00 ps
+28884 pts/1    00:00:00 bash
+32326 pts/1    00:00:00 top
+Tue  5 May 18:57:10 EEST 2020
+  PID TTY          TIME CMD
+ 3499 pts/0    00:00:00 4.10.11.sh
+11513 pts/0    00:00:00 4.10.11.sh
+20100 pts/0    00:00:00 bash
+21959 pts/0    00:00:00 4.10.2.sh
+21962 pts/0    00:00:00 ps
