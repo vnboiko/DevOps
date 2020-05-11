@@ -1,0 +1,487 @@
+Mem:        3010700     1946912       92980      197916      970808      695600
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 4  0 566720  86312  49244 930428    0    9    59    63  538  300 10  5 81  4  0
+Mem:        3010700     1945480       85548      192020      979672      703736
+ 2  0 569552  88580  47772 912836    0  965     1  1337 2815 5557 29  6 61  3  0
+ 1  0 569552  81112  48704 919384    1    0  1196     4 3374 6593 12 12 76  1  0
+ 1  0 569552  79836  48712 919396    0    0     0    43 1956 4029  9  3 88  1  0
+ 3  0 569552  95348  48804 921536    0    0    23   183 2944 5686 13  6 80  1  0
+ 1  0 569552 103496  48844 917612    0    0     0   157 2889 5353 16  4 79  1  0
+ 1  0 569552  80876  48892 920508    0    0    20   183 2684 5488 26  7 65  2  0
+ 2  0 569552 102920  47252 917056    0    0   250   141 3824 7461 25 12 62  2  0
+ 2  0 569552  87260  47308 917384    0    0     0   247 2801 5483 29  6 64  2  0
+ 1  0 569552 103260  47896 916236    1    0   599   431 3367 6716 18  9 71  2  0
+Load average: 2.14,
+              total        used        free      shared  buff/cache   available
+Mem:           2.9G        1.9G        100M        187M        941M        690M
+Swap:          1.9G        556M        1.3G
+Filesystem      Size  Used Avail Use% Mounted on
+udev            1.5G     0  1.5G   0% /dev
+tmpfs           295M  1.7M  293M   1% /run
+/dev/sda1        40G   16G   23G  41% /
+tmpfs           1.5G  186M  1.3G  13% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           1.5G     0  1.5G   0% /sys/fs/cgroup
+/dev/loop1       15M   15M     0 100% /snap/gnome-characters/495
+/dev/loop2      2.3M  2.3M     0 100% /snap/gnome-system-monitor/145
+/dev/loop0       11M   11M     0 100% /snap/kubectl/1486
+/dev/loop3       63M   63M     0 100% /snap/gtk-common-themes/1506
+/dev/loop4       55M   55M     0 100% /snap/core18/1754
+/dev/loop5      192M  192M     0 100% /snap/microk8s/1319
+/dev/loop7      4.3M  4.3M     0 100% /snap/tree/18
+/dev/loop6      175M  175M     0 100% /snap/skype/118
+/dev/loop8       11M   11M     0 100% /snap/kubectl/1506
+/dev/loop9       94M   94M     0 100% /snap/core/8935
+/dev/loop10     291M  291M     0 100% /snap/vlc/1620
+/dev/loop11      55M   55M     0 100% /snap/gtk-common-themes/1502
+/dev/loop12     3.8M  3.8M     0 100% /snap/gnome-system-monitor/135
+/dev/loop13     203M  203M     0 100% /snap/vlc/1397
+/dev/loop15     172M  172M     0 100% /snap/skype/123
+/dev/loop16     2.5M  2.5M     0 100% /snap/gnome-calculator/730
+/dev/loop14     161M  161M     0 100% /snap/gnome-3-28-1804/116
+/dev/loop18      94M   94M     0 100% /snap/core/9066
+/dev/loop17     2.5M  2.5M     0 100% /snap/gnome-calculator/748
+/dev/loop21     1.0M  1.0M     0 100% /snap/gnome-logs/93
+/dev/loop19      55M   55M     0 100% /snap/core18/1705
+/dev/loop20     384K  384K     0 100% /snap/gnome-characters/539
+/dev/loop23     9.3M  9.3M     0 100% /snap/kubeadm/1515
+/dev/loop22     193M  193M     0 100% /snap/microk8s/1379
+/dev/loop25     9.3M  9.3M     0 100% /snap/kubeadm/1534
+/dev/loop27     256M  256M     0 100% /snap/gnome-3-34-1804/33
+/dev/loop24     1.0M  1.0M     0 100% /snap/gnome-logs/100
+/dev/loop26     243M  243M     0 100% /snap/gnome-3-34-1804/27
+tmpfs           295M   28K  294M   1% /run/user/121
+tmpfs           295M   52K  294M   1% /run/user/1000
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 5  0 569552  93504  49260 921196    0    9    59    63  538  304 10  5 81  4  0
+Mem:        3010700     1946496       93748      191152      970456      704336
+ 5  0 569552  74228  48664 920792    0    0   121  1208 4599 8406 44 13 39  3  0
+ 3  0 569552  86116  49304 920480    3    0   735   153 3710 7077 31 10 54  5  0
+ 3  0 569552  90832  49360 920936    0    0    14    84 2459 4795 13  4 83  0  0
+ 0  1 569552  78468  47940 915848    0    0  1110   211 3884 7401 28 11 57  4  0
+ 2  0 569552  96816  48076 916180    0    0   480   152 2915 5522 18  6 75  2  0
+ 3  0 570064  89712  46704 908392    0  131   548   327 3822 7398 31 11 55  4  0
+ 1  0 570064  91396  46816 907516    0    0    61     3 1962 3667 10  3 85  2  0
+ 4  1 570064  86840  47836 910784    1    0   359   181 2852 5236 20  7 68  5  0
+ 0  0 570064  80276  49016 918260    0    0   828   267 3257 5872 24 12 60  4  0
+Load average: 2.07,
+              total        used        free      shared  buff/cache   available
+Mem:           2.9G        1.9G         78M        189M        944M        669M
+Swap:          1.9G        556M        1.3G
+Filesystem      Size  Used Avail Use% Mounted on
+udev            1.5G     0  1.5G   0% /dev
+tmpfs           295M  1.7M  293M   1% /run
+/dev/sda1        40G   16G   23G  41% /
+tmpfs           1.5G  184M  1.3G  13% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           1.5G     0  1.5G   0% /sys/fs/cgroup
+/dev/loop1       15M   15M     0 100% /snap/gnome-characters/495
+/dev/loop2      2.3M  2.3M     0 100% /snap/gnome-system-monitor/145
+/dev/loop0       11M   11M     0 100% /snap/kubectl/1486
+/dev/loop3       63M   63M     0 100% /snap/gtk-common-themes/1506
+/dev/loop4       55M   55M     0 100% /snap/core18/1754
+/dev/loop5      192M  192M     0 100% /snap/microk8s/1319
+/dev/loop7      4.3M  4.3M     0 100% /snap/tree/18
+/dev/loop6      175M  175M     0 100% /snap/skype/118
+/dev/loop8       11M   11M     0 100% /snap/kubectl/1506
+/dev/loop9       94M   94M     0 100% /snap/core/8935
+/dev/loop10     291M  291M     0 100% /snap/vlc/1620
+/dev/loop11      55M   55M     0 100% /snap/gtk-common-themes/1502
+/dev/loop12     3.8M  3.8M     0 100% /snap/gnome-system-monitor/135
+/dev/loop13     203M  203M     0 100% /snap/vlc/1397
+/dev/loop15     172M  172M     0 100% /snap/skype/123
+/dev/loop16     2.5M  2.5M     0 100% /snap/gnome-calculator/730
+/dev/loop14     161M  161M     0 100% /snap/gnome-3-28-1804/116
+/dev/loop18      94M   94M     0 100% /snap/core/9066
+/dev/loop17     2.5M  2.5M     0 100% /snap/gnome-calculator/748
+/dev/loop21     1.0M  1.0M     0 100% /snap/gnome-logs/93
+/dev/loop19      55M   55M     0 100% /snap/core18/1705
+/dev/loop20     384K  384K     0 100% /snap/gnome-characters/539
+/dev/loop23     9.3M  9.3M     0 100% /snap/kubeadm/1515
+/dev/loop22     193M  193M     0 100% /snap/microk8s/1379
+/dev/loop25     9.3M  9.3M     0 100% /snap/kubeadm/1534
+/dev/loop27     256M  256M     0 100% /snap/gnome-3-34-1804/33
+/dev/loop24     1.0M  1.0M     0 100% /snap/gnome-logs/100
+/dev/loop26     243M  243M     0 100% /snap/gnome-3-34-1804/27
+tmpfs           295M   28K  294M   1% /run/user/121
+tmpfs           295M   60K  294M   1% /run/user/1000
+Mem:        3010700     1947112      108084      189584      955504      705424
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0 571088 108232  48056 907448    0    9    59    63  539  308 10  5 81  4  0
+ 0  0 571088 102936  48072 916724    1    0  3056     3 1785 3998  9  4 79  8  0
+ 1  0 571088 100004  48104 919132    3    0   869  1019 3508 6487 30  9 53  8  0
+ 0  0 571088  95840  48244 923140    0    0  1292     3 2588 4529 30  5 62  3  0
+ 3  0 571088  93184  48480 924676    0    0    72    68 3704 7042 36 10 54  0  0
+ 1  0 571088  90220  48544 924944    0    0     0   111 2124 4223 11  4 83  1  0
+ 2  0 571088  91104  48652 925352    0    0    33    51 3053 6234 12  7 81  0  0
+ 1  0 571088  89716  48660 925352    0    0     0    32 3034 5502 27  7 65  0  0
+ 0  0 571088  88852  48720 925692    0    0    74   111 2034 4510 13  3 83  1  0
+ 1  0 571352  80008  48036 919924    0   81   258   312 3416 6919 28 11 60  1  0
+Load average: 2.15,
+              total        used        free      shared  buff/cache   available
+Mem:           2.9G        1.9G         77M        189M        945M        669M
+Swap:          1.9G        557M        1.3G
+Filesystem      Size  Used Avail Use% Mounted on
+udev            1.5G     0  1.5G   0% /dev
+tmpfs           295M  1.7M  293M   1% /run
+/dev/sda1        40G   16G   23G  41% /
+tmpfs           1.5G  184M  1.3G  13% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           1.5G     0  1.5G   0% /sys/fs/cgroup
+/dev/loop1       15M   15M     0 100% /snap/gnome-characters/495
+/dev/loop2      2.3M  2.3M     0 100% /snap/gnome-system-monitor/145
+/dev/loop0       11M   11M     0 100% /snap/kubectl/1486
+/dev/loop3       63M   63M     0 100% /snap/gtk-common-themes/1506
+/dev/loop4       55M   55M     0 100% /snap/core18/1754
+/dev/loop5      192M  192M     0 100% /snap/microk8s/1319
+/dev/loop7      4.3M  4.3M     0 100% /snap/tree/18
+/dev/loop6      175M  175M     0 100% /snap/skype/118
+/dev/loop8       11M   11M     0 100% /snap/kubectl/1506
+/dev/loop9       94M   94M     0 100% /snap/core/8935
+/dev/loop10     291M  291M     0 100% /snap/vlc/1620
+/dev/loop11      55M   55M     0 100% /snap/gtk-common-themes/1502
+/dev/loop12     3.8M  3.8M     0 100% /snap/gnome-system-monitor/135
+/dev/loop13     203M  203M     0 100% /snap/vlc/1397
+/dev/loop15     172M  172M     0 100% /snap/skype/123
+/dev/loop16     2.5M  2.5M     0 100% /snap/gnome-calculator/730
+/dev/loop14     161M  161M     0 100% /snap/gnome-3-28-1804/116
+/dev/loop18      94M   94M     0 100% /snap/core/9066
+/dev/loop17     2.5M  2.5M     0 100% /snap/gnome-calculator/748
+/dev/loop21     1.0M  1.0M     0 100% /snap/gnome-logs/93
+/dev/loop19      55M   55M     0 100% /snap/core18/1705
+/dev/loop20     384K  384K     0 100% /snap/gnome-characters/539
+/dev/loop23     9.3M  9.3M     0 100% /snap/kubeadm/1515
+/dev/loop22     193M  193M     0 100% /snap/microk8s/1379
+/dev/loop25     9.3M  9.3M     0 100% /snap/kubeadm/1534
+/dev/loop27     256M  256M     0 100% /snap/gnome-3-34-1804/33
+/dev/loop24     1.0M  1.0M     0 100% /snap/gnome-logs/100
+/dev/loop26     243M  243M     0 100% /snap/gnome-3-34-1804/27
+tmpfs           295M   28K  294M   1% /run/user/121
+tmpfs           295M   60K  294M   1% /run/user/1000
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 5  0 576232  72592  49564 919284    0    9    60    63  540  312 10  5 81  4  0
+Mem:        3010700     1969008       72844      193576      968848      679540
+ 1  0 579832  96620  49264 918284    0 1180   585  5349 2716 5241 13  8 65 14  0
+ 0  1 579832  96484  50612 927416    0    0  1841    35 2880 5616 13 10 73  4  0
+ 2  0 579832  96028  52240 936164    0    0   874   960 3904 6947 12 14 65  8  0
+ 0  0 579832  95640  52248 936440    0    0     0    31 2595 5160 11  6 83  1  0
+ 5  0 579832  90560  52572 937652    0    0   149    40 2233 4419 10  5 82  3  0
+ 1  0 579832  80176  52584 941224    0    0     1    64 3209 6512 12  7 80  1  0
+10  0 579832  75752  53328 944172    0    0   252     3 3444 6420 20 10 67  2  0
+ 0  0 579832  75880  53336 944256    0    0     0    31 1792 3456  9  4 87  0  0
+ 7  0 579832  84552  52664 934776    0    1   420   225 2907 5460 22  9 67  1  0
+Load average: 2.55,
+              total        used        free      shared  buff/cache   available
+Mem:           2.9G        1.8G         82M        189M        964M        692M
+Swap:          1.9G        566M        1.3G
+Filesystem      Size  Used Avail Use% Mounted on
+udev            1.5G     0  1.5G   0% /dev
+tmpfs           295M  1.7M  293M   1% /run
+/dev/sda1        40G   16G   23G  41% /
+tmpfs           1.5G  184M  1.3G  13% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           1.5G     0  1.5G   0% /sys/fs/cgroup
+/dev/loop1       15M   15M     0 100% /snap/gnome-characters/495
+/dev/loop2      2.3M  2.3M     0 100% /snap/gnome-system-monitor/145
+/dev/loop0       11M   11M     0 100% /snap/kubectl/1486
+/dev/loop3       63M   63M     0 100% /snap/gtk-common-themes/1506
+/dev/loop4       55M   55M     0 100% /snap/core18/1754
+/dev/loop5      192M  192M     0 100% /snap/microk8s/1319
+/dev/loop7      4.3M  4.3M     0 100% /snap/tree/18
+/dev/loop6      175M  175M     0 100% /snap/skype/118
+/dev/loop8       11M   11M     0 100% /snap/kubectl/1506
+/dev/loop9       94M   94M     0 100% /snap/core/8935
+/dev/loop10     291M  291M     0 100% /snap/vlc/1620
+/dev/loop11      55M   55M     0 100% /snap/gtk-common-themes/1502
+/dev/loop12     3.8M  3.8M     0 100% /snap/gnome-system-monitor/135
+/dev/loop13     203M  203M     0 100% /snap/vlc/1397
+/dev/loop15     172M  172M     0 100% /snap/skype/123
+/dev/loop16     2.5M  2.5M     0 100% /snap/gnome-calculator/730
+/dev/loop14     161M  161M     0 100% /snap/gnome-3-28-1804/116
+/dev/loop18      94M   94M     0 100% /snap/core/9066
+/dev/loop17     2.5M  2.5M     0 100% /snap/gnome-calculator/748
+/dev/loop21     1.0M  1.0M     0 100% /snap/gnome-logs/93
+/dev/loop19      55M   55M     0 100% /snap/core18/1705
+/dev/loop20     384K  384K     0 100% /snap/gnome-characters/539
+/dev/loop23     9.3M  9.3M     0 100% /snap/kubeadm/1515
+/dev/loop22     193M  193M     0 100% /snap/microk8s/1379
+/dev/loop25     9.3M  9.3M     0 100% /snap/kubeadm/1534
+/dev/loop27     256M  256M     0 100% /snap/gnome-3-34-1804/33
+/dev/loop24     1.0M  1.0M     0 100% /snap/gnome-logs/100
+/dev/loop26     243M  243M     0 100% /snap/gnome-3-34-1804/27
+tmpfs           295M   28K  294M   1% /run/user/121
+tmpfs           295M   52K  294M   1% /run/user/1000
+Mem:        3010700     1935344       83868      192652      991488      713300
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+11  0 579832  83608  53468 938020    0    9    60    63  541  316 10  5 81  4  0
+ 1  0 579832  84244  53468 938068    0    0     0     3 2888 5362 14  6 80  0  0
+ 0  0 579832  89360  53572 938500    0    0    31    75 2636 5065 16  7 77  0  0
+ 0  1 579832  86896  53608 938512    0    0    16    21 2617 5187 10  5 84  1  0
+ 4  0 579832  90984  53616 938592    0    0     0  1024 2672 5501 12  5 74  9  0
+ 1  0 579832  90784  53616 938812    0    0    40     3 2188 4382  9  5 85  1  0
+ 2  0 579832  89396  53632 938964    0    0     1    68 2708 5952 12  7 80  2  0
+ 2  0 579832  88892  53632 938968    0    0     0    36 2485 4966 24  4 72  0  0
+ 2  0 579832  88156  53664 939148    0    0     0    71 3003 6105 15  6 78  1  0
+ 1  0 579832  86676  54004 940968    0    0   109   164 2792 5431 22  8 70  0  0
+Load average: 2.38,
+              total        used        free      shared  buff/cache   available
+Mem:           2.9G        1.8G         84M        188M        971M        702M
+Swap:          1.9G        566M        1.3G
+Filesystem      Size  Used Avail Use% Mounted on
+udev            1.5G     0  1.5G   0% /dev
+tmpfs           295M  1.7M  293M   1% /run
+/dev/sda1        40G   16G   23G  41% /
+tmpfs           1.5G  183M  1.3G  13% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           1.5G     0  1.5G   0% /sys/fs/cgroup
+/dev/loop1       15M   15M     0 100% /snap/gnome-characters/495
+/dev/loop2      2.3M  2.3M     0 100% /snap/gnome-system-monitor/145
+/dev/loop0       11M   11M     0 100% /snap/kubectl/1486
+/dev/loop3       63M   63M     0 100% /snap/gtk-common-themes/1506
+/dev/loop4       55M   55M     0 100% /snap/core18/1754
+/dev/loop5      192M  192M     0 100% /snap/microk8s/1319
+/dev/loop7      4.3M  4.3M     0 100% /snap/tree/18
+/dev/loop6      175M  175M     0 100% /snap/skype/118
+/dev/loop8       11M   11M     0 100% /snap/kubectl/1506
+/dev/loop9       94M   94M     0 100% /snap/core/8935
+/dev/loop10     291M  291M     0 100% /snap/vlc/1620
+/dev/loop11      55M   55M     0 100% /snap/gtk-common-themes/1502
+/dev/loop12     3.8M  3.8M     0 100% /snap/gnome-system-monitor/135
+/dev/loop13     203M  203M     0 100% /snap/vlc/1397
+/dev/loop15     172M  172M     0 100% /snap/skype/123
+/dev/loop16     2.5M  2.5M     0 100% /snap/gnome-calculator/730
+/dev/loop14     161M  161M     0 100% /snap/gnome-3-28-1804/116
+/dev/loop18      94M   94M     0 100% /snap/core/9066
+/dev/loop17     2.5M  2.5M     0 100% /snap/gnome-calculator/748
+/dev/loop21     1.0M  1.0M     0 100% /snap/gnome-logs/93
+/dev/loop19      55M   55M     0 100% /snap/core18/1705
+/dev/loop20     384K  384K     0 100% /snap/gnome-characters/539
+/dev/loop23     9.3M  9.3M     0 100% /snap/kubeadm/1515
+/dev/loop22     193M  193M     0 100% /snap/microk8s/1379
+/dev/loop25     9.3M  9.3M     0 100% /snap/kubeadm/1534
+/dev/loop27     256M  256M     0 100% /snap/gnome-3-34-1804/33
+/dev/loop24     1.0M  1.0M     0 100% /snap/gnome-logs/100
+/dev/loop26     243M  243M     0 100% /snap/gnome-3-34-1804/27
+tmpfs           295M   28K  294M   1% /run/user/121
+tmpfs           295M   52K  294M   1% /run/user/1000
+Mem:        3010700     1919524       98080      188576      993096      733268
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 2  0 579832  98228  54328 938768    0    9    59    63  541  320 10  5 81  4  0
+ 1  0 579832  99272  54328 938732    0    0     0    32 2166 4680 13  4 83  0  0
+ 0  0 579832  97444  54344 938988    0    0    37    83 2178 4773 12  5 82  1  0
+ 3  0 579832  97396  54344 939176    0    0     1    43 3118 6435 14  7 78  1  0
+ 1  0 579832  95884  54376 939312    0    0     8   328 2012 4232  7  3 90  1  0
+ 3  0 579832  89620  54384 945348    0    0  2020   964 3680 6664 29 10 55  7  0
+ 2  0 579832  88052  54392 945496    0    0     0    49 2146 4282 14  3 82  0  0
+ 2  0 579832  90236  54392 945460    0    0     0     3 3026 6125 17  7 76  0  0
+ 2  0 579832  81588  54416 946536    4    0   359    69 2348 4908 18  5 72  5  0
+ 0  0 580088  76672  53244 940176    1   96  1127   231 3287 6370 22  8 64  5  0
+Load average: 2.15,
+              total        used        free      shared  buff/cache   available
+Mem:           2.9G        1.9G         75M        188M        970M        692M
+Swap:          1.9G        566M        1.3G
+Filesystem      Size  Used Avail Use% Mounted on
+udev            1.5G     0  1.5G   0% /dev
+tmpfs           295M  1.7M  293M   1% /run
+/dev/sda1        40G   16G   23G  41% /
+tmpfs           1.5G  183M  1.3G  13% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           1.5G     0  1.5G   0% /sys/fs/cgroup
+/dev/loop1       15M   15M     0 100% /snap/gnome-characters/495
+/dev/loop2      2.3M  2.3M     0 100% /snap/gnome-system-monitor/145
+/dev/loop0       11M   11M     0 100% /snap/kubectl/1486
+/dev/loop3       63M   63M     0 100% /snap/gtk-common-themes/1506
+/dev/loop4       55M   55M     0 100% /snap/core18/1754
+/dev/loop5      192M  192M     0 100% /snap/microk8s/1319
+/dev/loop7      4.3M  4.3M     0 100% /snap/tree/18
+/dev/loop6      175M  175M     0 100% /snap/skype/118
+/dev/loop8       11M   11M     0 100% /snap/kubectl/1506
+/dev/loop9       94M   94M     0 100% /snap/core/8935
+/dev/loop10     291M  291M     0 100% /snap/vlc/1620
+/dev/loop11      55M   55M     0 100% /snap/gtk-common-themes/1502
+/dev/loop12     3.8M  3.8M     0 100% /snap/gnome-system-monitor/135
+/dev/loop13     203M  203M     0 100% /snap/vlc/1397
+/dev/loop15     172M  172M     0 100% /snap/skype/123
+/dev/loop16     2.5M  2.5M     0 100% /snap/gnome-calculator/730
+/dev/loop14     161M  161M     0 100% /snap/gnome-3-28-1804/116
+/dev/loop18      94M   94M     0 100% /snap/core/9066
+/dev/loop17     2.5M  2.5M     0 100% /snap/gnome-calculator/748
+/dev/loop21     1.0M  1.0M     0 100% /snap/gnome-logs/93
+/dev/loop19      55M   55M     0 100% /snap/core18/1705
+/dev/loop20     384K  384K     0 100% /snap/gnome-characters/539
+/dev/loop23     9.3M  9.3M     0 100% /snap/kubeadm/1515
+/dev/loop22     193M  193M     0 100% /snap/microk8s/1379
+/dev/loop25     9.3M  9.3M     0 100% /snap/kubeadm/1534
+/dev/loop27     256M  256M     0 100% /snap/gnome-3-34-1804/33
+/dev/loop24     1.0M  1.0M     0 100% /snap/gnome-logs/100
+/dev/loop26     243M  243M     0 100% /snap/gnome-3-34-1804/27
+tmpfs           295M   28K  294M   1% /run/user/121
+tmpfs           295M   60K  294M   1% /run/user/1000
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 2  0 581368  78472  52164 934920    0    9    59    63  541  324 10  5 81  4  0
+Mem:        3010700     1945144       78472      192656      987084      704864
+ 0  0 582656  85516  49708 922736    0  399    16   405 3212 6206 21  8 70  1  0
+ 1  0 582656  82048  49908 923944    0    0    85   152 1896 4330 10  3 81  5  0
+ 3  0 582656  85720  50216 926496    1    0   678    87 2091 4438 11  5 81  3  0
+10  0 582656  85128  50224 926520    0    0     0   156 1754 4183  9  3 87  1  0
+ 0  0 582656  86776  50224 927148    0    0     0     3 1986 3886  9  4 86  0  0
+ 0  0 582656  85928  50232 927368    0    0     0   924 2107 4825  9  5 84  2  0
+ 2  0 582656  85972  50664 929764    0    0   139    51 2375 4525 17  7 75  1  0
+ 0  0 582656  82360  50848 930372    0    0    58    64 2773 5698 13  7 80  1  0
+ 4  1 582656  82580  50848 930376    0    0     1     3 1437 3577 10  3 87  0  0
+Load average: 1.98,
+              total        used        free      shared  buff/cache   available
+Mem:           2.9G        1.9G         80M        189M        958M        685M
+Swap:          1.9G        569M        1.3G
+Filesystem      Size  Used Avail Use% Mounted on
+udev            1.5G     0  1.5G   0% /dev
+tmpfs           295M  1.7M  293M   1% /run
+/dev/sda1        40G   16G   23G  41% /
+tmpfs           1.5G  184M  1.3G  13% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           1.5G     0  1.5G   0% /sys/fs/cgroup
+/dev/loop1       15M   15M     0 100% /snap/gnome-characters/495
+/dev/loop2      2.3M  2.3M     0 100% /snap/gnome-system-monitor/145
+/dev/loop0       11M   11M     0 100% /snap/kubectl/1486
+/dev/loop3       63M   63M     0 100% /snap/gtk-common-themes/1506
+/dev/loop4       55M   55M     0 100% /snap/core18/1754
+/dev/loop5      192M  192M     0 100% /snap/microk8s/1319
+/dev/loop7      4.3M  4.3M     0 100% /snap/tree/18
+/dev/loop6      175M  175M     0 100% /snap/skype/118
+/dev/loop8       11M   11M     0 100% /snap/kubectl/1506
+/dev/loop9       94M   94M     0 100% /snap/core/8935
+/dev/loop10     291M  291M     0 100% /snap/vlc/1620
+/dev/loop11      55M   55M     0 100% /snap/gtk-common-themes/1502
+/dev/loop12     3.8M  3.8M     0 100% /snap/gnome-system-monitor/135
+/dev/loop13     203M  203M     0 100% /snap/vlc/1397
+/dev/loop15     172M  172M     0 100% /snap/skype/123
+/dev/loop16     2.5M  2.5M     0 100% /snap/gnome-calculator/730
+/dev/loop14     161M  161M     0 100% /snap/gnome-3-28-1804/116
+/dev/loop18      94M   94M     0 100% /snap/core/9066
+/dev/loop17     2.5M  2.5M     0 100% /snap/gnome-calculator/748
+/dev/loop21     1.0M  1.0M     0 100% /snap/gnome-logs/93
+/dev/loop19      55M   55M     0 100% /snap/core18/1705
+/dev/loop20     384K  384K     0 100% /snap/gnome-characters/539
+/dev/loop23     9.3M  9.3M     0 100% /snap/kubeadm/1515
+/dev/loop22     193M  193M     0 100% /snap/microk8s/1379
+/dev/loop25     9.3M  9.3M     0 100% /snap/kubeadm/1534
+/dev/loop27     256M  256M     0 100% /snap/gnome-3-34-1804/33
+/dev/loop24     1.0M  1.0M     0 100% /snap/gnome-logs/100
+/dev/loop26     243M  243M     0 100% /snap/gnome-3-34-1804/27
+tmpfs           295M   28K  294M   1% /run/user/121
+tmpfs           295M   48K  294M   1% /run/user/1000
+Mem:        3010700     1955452       82132      191812      973116      695284
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 2  0 586752  82424  53204 919920    0    9    60    63  542  331 10  5 81  4  0
+ 0  0 586752  81920  53204 919924    0    0     0     8 1743 3493  9  2 89  0  0
+ 0  0 586752  83652  53212 919952    0    0     0    40 2865 5757 11  7 82  0  0
+ 6  0 586752  79376  53272 920248    0    0    35    35 2261 4480 14  4 81  1  0
+ 1  0 586752  90612  53428 922604    0    0    53    69 2632 5218 11 11 78  0  0
+ 3  0 586752  89244  51600 915192    0    0   147    84 2799 5054 29  7 62  2  0
+ 1  0 586752  85692  51868 917684    0    0   123   105 1980 3853  8  5 86  1  0
+ 0  2 586752  84196  51960 919240    1    0   297   221 3033 5872  9  7 80  4  0
+ 0  0 586752  87212  52468 924404    0    0   872   764 3762 7116 13 11 64 13  0
+ 0  0 586752  87760  52624 924732    0    0    50    33 2180 4320 10  4 83  3  0
+Load average: 1.87,
+              total        used        free      shared  buff/cache   available
+Mem:           2.9G        1.9G         85M        187M        954M        686M
+Swap:          1.9G        573M        1.3G
+Filesystem      Size  Used Avail Use% Mounted on
+udev            1.5G     0  1.5G   0% /dev
+tmpfs           295M  1.7M  293M   1% /run
+/dev/sda1        40G   16G   23G  41% /
+tmpfs           1.5G  184M  1.3G  13% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           1.5G     0  1.5G   0% /sys/fs/cgroup
+/dev/loop1       15M   15M     0 100% /snap/gnome-characters/495
+/dev/loop2      2.3M  2.3M     0 100% /snap/gnome-system-monitor/145
+/dev/loop0       11M   11M     0 100% /snap/kubectl/1486
+/dev/loop3       63M   63M     0 100% /snap/gtk-common-themes/1506
+/dev/loop4       55M   55M     0 100% /snap/core18/1754
+/dev/loop5      192M  192M     0 100% /snap/microk8s/1319
+/dev/loop7      4.3M  4.3M     0 100% /snap/tree/18
+/dev/loop6      175M  175M     0 100% /snap/skype/118
+/dev/loop8       11M   11M     0 100% /snap/kubectl/1506
+/dev/loop9       94M   94M     0 100% /snap/core/8935
+/dev/loop10     291M  291M     0 100% /snap/vlc/1620
+/dev/loop11      55M   55M     0 100% /snap/gtk-common-themes/1502
+/dev/loop12     3.8M  3.8M     0 100% /snap/gnome-system-monitor/135
+/dev/loop13     203M  203M     0 100% /snap/vlc/1397
+/dev/loop15     172M  172M     0 100% /snap/skype/123
+/dev/loop16     2.5M  2.5M     0 100% /snap/gnome-calculator/730
+/dev/loop14     161M  161M     0 100% /snap/gnome-3-28-1804/116
+/dev/loop18      94M   94M     0 100% /snap/core/9066
+/dev/loop17     2.5M  2.5M     0 100% /snap/gnome-calculator/748
+/dev/loop21     1.0M  1.0M     0 100% /snap/gnome-logs/93
+/dev/loop19      55M   55M     0 100% /snap/core18/1705
+/dev/loop20     384K  384K     0 100% /snap/gnome-characters/539
+/dev/loop23     9.3M  9.3M     0 100% /snap/kubeadm/1515
+/dev/loop22     193M  193M     0 100% /snap/microk8s/1379
+/dev/loop25     9.3M  9.3M     0 100% /snap/kubeadm/1534
+/dev/loop27     256M  256M     0 100% /snap/gnome-3-34-1804/33
+/dev/loop24     1.0M  1.0M     0 100% /snap/gnome-logs/100
+/dev/loop26     243M  243M     0 100% /snap/gnome-3-34-1804/27
+tmpfs           295M   28K  294M   1% /run/user/121
+tmpfs           295M   52K  294M   1% /run/user/1000
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 1  1 589824  75248  51520 919288    0    9    59    63  543  338 10  5 81  4  0
+Mem:        3010700     1964132       75760      194616      970808      682080
+ 3  0 589824  74240  51520 919328    0    0     9     3 3050 6133 14  5 79  1  0
+ 1  0 589824  76252  51636 919656    0    0    28   132 2870 5418 12  7 80  1  0
+ 0  0 589824  79692  52012 921404    0    0   163     3 2635 5113 18  7 75  0  0
+ 0  0 589824  78448  52024 921816    0    0     0    27 2974 5597 12  6 81  0  0
+ 1  0 589824  77644  52124 922448    0    0   109     3 2041 4218  9  4 86  1  0
+ 1  0 589824  87988  52168 922992    0    0    86   124 2635 5231 13  6 80  1  0
+ 2  0 589824  89172  52184 922784    0    0     0    72 2610 5380 12  6 82  1  0
+ 3  0 589824  87224  52224 923208    0    0    13     4 2247 4775 10  4 86  0  0
+ 1  1 589824  86812  52232 923096    0    0     0   593 2729 5472 14  6 78  3  0
+Load average: 1.83,
+              total        used        free      shared  buff/cache   available
+Mem:           2.9G        1.9G         85M        190M        952M        681M
+Swap:          1.9G        576M        1.3G
+Filesystem      Size  Used Avail Use% Mounted on
+udev            1.5G     0  1.5G   0% /dev
+tmpfs           295M  1.7M  293M   1% /run
+/dev/sda1        40G   16G   23G  41% /
+tmpfs           1.5G  184M  1.3G  13% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           1.5G     0  1.5G   0% /sys/fs/cgroup
+/dev/loop1       15M   15M     0 100% /snap/gnome-characters/495
+/dev/loop2      2.3M  2.3M     0 100% /snap/gnome-system-monitor/145
+/dev/loop0       11M   11M     0 100% /snap/kubectl/1486
+/dev/loop3       63M   63M     0 100% /snap/gtk-common-themes/1506
+/dev/loop4       55M   55M     0 100% /snap/core18/1754
+/dev/loop5      192M  192M     0 100% /snap/microk8s/1319
+/dev/loop7      4.3M  4.3M     0 100% /snap/tree/18
+/dev/loop6      175M  175M     0 100% /snap/skype/118
+/dev/loop8       11M   11M     0 100% /snap/kubectl/1506
+/dev/loop9       94M   94M     0 100% /snap/core/8935
+/dev/loop10     291M  291M     0 100% /snap/vlc/1620
+/dev/loop11      55M   55M     0 100% /snap/gtk-common-themes/1502
+/dev/loop12     3.8M  3.8M     0 100% /snap/gnome-system-monitor/135
+/dev/loop13     203M  203M     0 100% /snap/vlc/1397
+/dev/loop15     172M  172M     0 100% /snap/skype/123
+/dev/loop16     2.5M  2.5M     0 100% /snap/gnome-calculator/730
+/dev/loop14     161M  161M     0 100% /snap/gnome-3-28-1804/116
+/dev/loop18      94M   94M     0 100% /snap/core/9066
+/dev/loop17     2.5M  2.5M     0 100% /snap/gnome-calculator/748
+/dev/loop21     1.0M  1.0M     0 100% /snap/gnome-logs/93
+/dev/loop19      55M   55M     0 100% /snap/core18/1705
+/dev/loop20     384K  384K     0 100% /snap/gnome-characters/539
+/dev/loop23     9.3M  9.3M     0 100% /snap/kubeadm/1515
+/dev/loop22     193M  193M     0 100% /snap/microk8s/1379
+/dev/loop25     9.3M  9.3M     0 100% /snap/kubeadm/1534
+/dev/loop27     256M  256M     0 100% /snap/gnome-3-34-1804/33
+/dev/loop24     1.0M  1.0M     0 100% /snap/gnome-logs/100
+/dev/loop26     243M  243M     0 100% /snap/gnome-3-34-1804/27
+tmpfs           295M   28K  294M   1% /run/user/121
+tmpfs           295M   52K  294M   1% /run/user/1000
